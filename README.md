@@ -1,42 +1,13 @@
-# Eclipse Phase 2e - Tradução para Português
+# A Collection of Resources for Eclipse Phase 2e
 
-Todos os créditos do livro original vão para Posthuman Studios.
+Unless under otherwise stated the information is taken from the various source books for Eclipse Phase and Eclipse Phase 2e created by Posthuman Studios.
 
-Utilizando [CommonMark](https://commonmark.org/) e [mbBook](https://github.com/rust-lang/mdBook).
+The general Layout and structure is take from [EclipsePhase2e-ptbr](https://github.com/luizbgomide/EclipsePhase2e-ptbr)
 
-O livro em inglês pode ser acessado [aqui](https://luizbgomide.github.io/EclipsePhase2e-ptbr/en/).
+Using [CommonMark](https://commonmark.org/) and [mbBook](https://github.com/rust-lang/mdBook).
 
-O livro em português (em tradução) pode ser acessado [aqui](https://luizbgomide.github.io/EclipsePhase2e-ptbr/pt_br/).
-
-[Glossário prévio](https://docs.google.com/spreadsheets/d/1ADzdDhGXVs7zfvG0qkj4LtynFpFeAbmq_pDksrWgMPI/edit?usp=sharing)
-
-## Progresso
-
-- [x] Organização dos arquivos (100%)
-- [ ] Livro Básico (v1.3) (47%)
-  - [x] Infâmia
-  - [x] Começando
-  - [x] Mecânicas do Jogo
-  - [x] Criando Personagens
-  - [ ] Personagem Prontos
-  - [x] Como Aconteceu
-  - [ ] Futuro Acelerado
-  - [ ] Cultura Transumana
-  - [ ] A Nova Economia Política
-  - [ ] Facções
-  - [ ] Catálogo do Sistema
-  - [x] Ação & Combate
-  - [x] A Mesh
-  - [x] Psi
-  - [x] Tecnologia Transumana
-  - [x] Equipamento
-  - [ ] Conduzindo o Jogo
-  - [ ] Ameaças & Riscos X
-  - [x] Apêndices
-- [ ] Suplementos
-  - [ ] Multiplicide & Síntese
-  - [ ] Opções para Personagens (v1.0.1)
-- [ ] Revisão
+## Progress
+Currently working on slimming down repo
 
 ## License
 
