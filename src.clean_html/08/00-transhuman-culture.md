@@ -1,3 +1,0 @@
-# Transhuman Culture
-
-<!-- TOC PLACEHOLDER -->

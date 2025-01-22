@@ -1,3 +1,0 @@
-# Factions
-
-<!-- TOC PLACEHOLDER -->

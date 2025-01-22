@@ -1,3 +1,0 @@
-# Accelerated Future
-
-<!-- TOC PLACEHOLDER -->

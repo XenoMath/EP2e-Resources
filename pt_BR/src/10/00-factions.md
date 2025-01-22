@@ -1,4 +1,0 @@
-# Facções
-
-<!-- TOC PLACEHOLDER -->
-

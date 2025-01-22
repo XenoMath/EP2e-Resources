@@ -1,4 +1,0 @@
-# Futuro Acelerado
-
-<!-- TOC PLACEHOLDER -->
-

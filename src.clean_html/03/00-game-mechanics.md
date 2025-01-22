@@ -1,3 +1,0 @@
-# Game Mechanics
-
-<!-- TOC PLACEHOLDER -->

@@ -1,3 +1,0 @@
-# Making Characters
-
-<!-- TOC PLACEHOLDER -->

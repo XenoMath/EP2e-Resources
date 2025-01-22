@@ -1,4 +1,0 @@
-# Cultura Transumana
-
-<!-- TOC PLACEHOLDER -->
-

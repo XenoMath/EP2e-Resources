@@ -1,3 +1,0 @@
-# Como Aconteceu
-
-<!-- TOC PLACEHOLDER -->

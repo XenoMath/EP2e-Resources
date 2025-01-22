@@ -1,3 +1,0 @@
-# Começando
-
-<!-- TOC PLACEHOLDER -->

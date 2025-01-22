@@ -1,3 +1,0 @@
-# Apêndices
-
-<!-- TOC PLACEHOLDER -->

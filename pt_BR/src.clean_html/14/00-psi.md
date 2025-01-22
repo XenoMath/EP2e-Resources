@@ -1,3 +1,0 @@
-# Psi
-
-<!-- TOC PLACEHOLDER -->

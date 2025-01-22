@@ -1,3 +1,0 @@
-# Life Path
-
-<!-- TOC PLACEHOLDER -->

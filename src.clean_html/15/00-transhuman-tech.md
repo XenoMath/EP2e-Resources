@@ -1,3 +1,0 @@
-# Transhuman Tech
-
-<!-- TOC PLACEHOLDER -->

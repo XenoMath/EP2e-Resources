@@ -1,3 +1,0 @@
-# Gear
-
-<!-- TOC PLACEHOLDER -->

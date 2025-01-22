@@ -1,3 +1,0 @@
-# Action & Combat
-
-<!-- TOC PLACEHOLDER -->

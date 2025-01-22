@@ -1,3 +1,0 @@
-# Tecnologia Transumana
-
-<!-- TOC PLACEHOLDER -->

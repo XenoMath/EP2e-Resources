@@ -1,3 +1,0 @@
-# Criando Personagens
-
-<!-- TOC PLACEHOLDER -->
