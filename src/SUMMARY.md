@@ -1,5 +1,9 @@
 # Summary
-
+# New stuff
+- [Gear](01-gear/00-gear.md)
+  - [Ware](01-gear/01-ware/00-ware.md)
+  - [Bots](01-gear/02-bots/00-bots.md)
+# EP2e
 - [Infamy](01/00-infamy.md)
 - [Starting Out](02/00-starting-out.md)
   - [What is Eclipse Phase?](02/01-what-is-ep.md)
