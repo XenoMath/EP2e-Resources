@@ -1,3 +1,6 @@
+# List of ware available as bioware
+Useful for when you're afraid of being hacked.
+
 |BIO WARE                           | Comp/<wbr>GP          | Description                                                                                               | Source        |
 | :-------------------------------- | :----------:          | :----------------------------------------------------------------------                                   |:------------- |
 | 360° Vision                       |    Min/1              | See in all directions at once.                                                                            |    Senses     |
@@ -5,6 +8,7 @@
 | Adrenal Surge                     |    Maj/3              | Supercharged adrenal response. +1 Vigor, ignore 1 wound.                                                  |               |
 | Asymmetric Sleep                  |    Min/1              | Remain vigilant, maintain position while sleeping.                                                        |               |
 | Biomods                           |    Min/1              | Genetic tweaks for health, faster healing, immunities, and more.                                          |               |
+| Bioweave                          |    Min/1              | Armor +2/+3, Concealable                                                                                  |     EP2       |
 | Bodysculpting                     |    Min/1              | Customized body mods.                                                                                     |   Shaping     |
 | Brachiating Adaptation            |    Mod/2              | Brachiate 8/32, +10 Reach.                                                                                |   Mobility    |
 | Brain Box                         |    Min/1              | Biological brain for pod/synthmorph.                                                                      |               |
@@ -12,6 +16,7 @@
 | Circadian Regulation              |    Mod/2              | Need only 2 hours of sleep. Long recharges take 2 hours.                                                  |               |
 | Clean Metabolism                  |    Min/1              | Symbiotic bacteria, gut flora, and glands keep you clean and fresh.                                       |               |
 | Cold Tolerance                    |    Min/1              | Handle temps as low as −80&nbsp;°C/−112&nbsp;°F.                                                          |               |
+| Dermal Armor                      |    Min/1              | Armor +4/+5, -20 touch perception                                                                         |     EP2       |
 | Digging Claws                     |    Min/1              | DV 1d10 + 3.                                                                                              |               |
 | Direction Sense                   |    Min/1              | Innate sense of direction and distance. +10 navigation-based Survival Tests.                              |    Senses     |
 | Drug Glands                       |  Min/R/1 + Drug       | Produces one type of drug.                                                                                |               |
@@ -42,6 +47,7 @@
 | Prehensile Tail                   |    Min/1              | Can grip with tail. +10 balanced-based Athletics.                                                         |               |
 | Pressure Adaptation               |    Min/1              | Handle extreme pressure.                                                                                  |               |
 | Radiation Tolerance               |    Min/1              | Protection from radiation; bioware requires medichines.                                                   |               |
+| Scale/<wbr>Carapace Armor         |    Mod/2              | Armor +6/+7, -20 touch perception                                                                         |     EP2       |
 | Scent Alteration                  |    Min/1              | Excrete designer smells.                                                                                  |               |
 | Sex Switch                        |    Mod/2              | Switch between male, female, intersex, or neuter in 1 week.                                               |   Shaping     |
 | Skin Pocket                       |    Min/1              | Concealment for very small (and some small) items (+30 Infiltrate).                                       |               |

@@ -49,12 +49,15 @@
 | Grip Pads                         |     H     |    Min/1              | +30 climbing Athletics Tests.                                                                             |   Mobility    |
 | Hardened Skeleton                 |     H     |    Maj/3              | Bone lacing. +1&nbsp;WT, +5&nbsp;DUR, +8/10&nbsp;DR, +10&nbsp;SOM Check.                                  |               |
 | Heat Tolerance                    |     H     |    Min/1              | Handle temps as high as 130 F/500 F.                                                                      |               |
+| Heavy Combat Armor                |     H     |    Maj/3              | Armor +16/+14                                                                                             |     EP2       |
 | Hidden Compartment                |     H     |    Min/1              | Concealed, shielded compartment. +30 Infiltrate to hide items.                                            | Infiltration  |
 | High-G Adaptation                 |     H     |    Min/1              | Treat gravity as if 1&nbsp;g less. Requires hardened skeleton.                                            |               |
 | Hypermesh Link                    |     HM    |   Maj/3/R             | Group mind-state, +1 Insight, can use Insight to borrow skills.                                           |               |
 | Implant Mask                      |     H     |    Min/1              | One C/H ware made concealable, −30 to detect with sensors.                                                |               |
+| Industrial Armor                  |     H     |    Min/1              | Armor +6/+4                                                                                               |     EP2       |
 | Laser Link (Medium)               |     H     |    Maj/3              | 500,000 km range in space.                                                                                |               |
 | Lidar                             |     H     |    Min/1              | Use reflected laser light to image and judge range and speed.                                             |    Senses     |
+| Light Combat Armor                |     H     |    Mod/2              | Armor +10/+8                                                                                              |     EP2       |
 | Magnetic Generator                |     H     |    Maj/3              | Thrust-Vector 8/40; use Pilot: Space; +15/+0 AV.                                                          |   Mobility    |
 | Magnetic System                   |     H     |    Min/1              | +30&nbsp;SOM Checks to cling to ferrous materials and objects.                                            |   Mobility    |
 | Medichines                        |    HN     |    Maj/3              | Ignore 1 wound, heal faster, drug/toxin effect/duration halved.                                           |               |

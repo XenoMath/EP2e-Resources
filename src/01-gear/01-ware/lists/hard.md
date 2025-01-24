@@ -36,14 +36,17 @@
 | Grip Pads                         |    Min/1              | +30 climbing Athletics Tests.                                                                             |   Mobility    |
 | Hardened Skeleton                 |    Maj/3              | Bone lacing. +1&nbsp;WT, +5&nbsp;DUR, +8/10&nbsp;DR, +10&nbsp;SOM Check.                                  |               |
 | Heat Tolerance                    |    Min/1              | Handle temps as high as 130 F/500 F.                                                                      |               |
+| Heavy Combat Armor                |    Maj/3              | Armor +16/+14                                                                                             |     EP2       |
 | Hidden Compartment                |    Min/1              | Concealed, shielded compartment. +30 Infiltrate to hide items.                                            | Infiltration  |
 | High-G Adaptation                 |    Min/1              | Treat gravity as if 1&nbsp;g less. Requires hardened skeleton.                                            |               |
 | Hypermesh Link                    |   Maj/3/R             | Group mind-state, +1 Insight, can use Insight to borrow skills.                                           |               |
 | Implant Mask                      |    Min/1              | One C/H ware made concealable, −30 to detect with sensors.                                                |               |
+| Industrial Armor                  |    Min/1              | Armor +6/+4                                                                                               |     EP2       |
 | Injectors                         |    Min/1              | Attacks can inflict 1 dose on any target in swarm. Swarm morphs only.                                     |               |
 | Jaws                              |    Min/1              | Swarm attacks inflict an extra DV 1d6. Swarm morphs only.                                                 |               |
 | Laser Link (Medium)               |    Maj/3              | 500,000 km range in space.                                                                                |               |
 | Lidar                             |    Min/1              | Use reflected laser light to image and judge range and speed.                                             |    Senses     |
+| Light Combat Armor                |     H     |    Mod/2              | Armor +10/+8                                                                                              |     EP2       |
 | Magnetic Generator                |    Maj/3              | Thrust-Vector 8/40; use Pilot: Space; +15/+0 AV.                                                          |   Mobility    |
 | Magnetic System                   |    Min/1              | +30&nbsp;SOM Checks to cling to ferrous materials and objects.                                            |   Mobility    |
 | Medichines                        |    Maj/3              | Ignore 1 wound, heal faster, drug/toxin effect/duration halved.                                           |               |

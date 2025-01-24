@@ -12,6 +12,7 @@
 | Auto Backup                       |     M     |    Mod/2              | Secure backup via mesh every 48 hours.                                                                    |  Failsafes    |
 | Auto-Erase                        |     M     |    Min/1              | Auto-erases infomorph when conditions are met.                                                            |  Failsafes    |
 | Biomods                           |     B     |    Min/1              | Genetic tweaks for health, faster healing, immunities, and more.                                          |               |
+| Bioweave                          |     B     |    Min/1              | Armor +2/+3, Concealable                                                                                  |     EP2       |
 | Bodysculpting                     |    BC     |    Min/1              | Customized body mods.                                                                                     |   Shaping     |
 | Brachiating Adaptation            |    B      |    Mod/2              | Brachiate 8/32, +10 Reach.                                                                                |   Mobility    |
 | Brain Box                         |    BC     |    Min/1              | Biological brain for pod/synthmorph.                                                                      |               |
@@ -30,6 +31,7 @@
 | Data Module                       |    C      |    Min/1              | Encrypted data storage.                                                                                   |     Comms     |
 | Dead Switch                       |    C      |    Min/1              | Wipes and melts your cortical stack if killed.                                                            |  Failsafes    |
 | Defrag                            |     M     |    Mod/2              | Recover additional pool point with each short rest.                                                       |               |
+| Dermal Armor                      |     B     |    Min/1              | Armor +4/+5, -20 touch perception                                                                         |     EP2       |
 | Diamond Buzzsaw                   |    C      |    Min/1              | DV 1d10 + 6, Armor-Piercing, Concealable.                                                                 |               |
 | Digestive Symbiotes               |     N     |    Mod/2              | Safely eat most organics; protects vs. oral biochem toxins.                                               |               |
 | Digging Claws                     |    BC     |    Min/1              | DV 1d10 + 3.                                                                                              |               |
@@ -111,6 +113,7 @@
 | Refractive Coating                |     N     |    Maj/3              | Protection from heat/radiation; AV +10/+0.                                                                |               |
 | Remote Backup Link                |    C      |    Maj/3              | Quantum farcaster for remote backup every 48 hrs.                                                         |  Failsafes    |
 | Respirocytes                      |     N     |    Mod/2              | Artificial blood cells, provide 4 hours of air, +5&nbsp;DUR, +1&nbsp;WT, +8&nbsp;DR.                      |               |
+| Scale/<wbr>Carapace Armor         |     B     |    Mod/2              | Armor +6/+7, -20 touch perception                                                                         |     EP2       |
 | Scent Alteration                  |     B     |    Min/1              | Excrete designer smells.                                                                                  |               |
 | Sex Switch                        |     B     |    Mod/2              | Switch between male, female, intersex, or neuter in 1 week.                                               |   Shaping     |
 | Skeletal Disguise                 |     C     |    Min/1              | −30 modifier to match skeletal pattern with sensors.                                                      |               |

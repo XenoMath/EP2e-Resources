@@ -7,13 +7,14 @@
 | Access Jacks                      |     C     |    Min/1              | External sockets for direct interface with mesh inserts/cyberbrains.                                      |     Comms     |
 | Adrenal Surge                     |     B     |    Maj/3              | Supercharged adrenal response. +1 Vigor, ignore 1 wound.                                                  |               |
 | Anti-Glare                        |     C     |    Min/1              | No glare penalties.                                                                                       |    Senses     |
-| Asymmetric Sleep                  |    B      |    Min/1               | Remain vigilant, maintain position while sleeping.                                                        |               |
+| Asymmetric Sleep                  |    B      |    Min/1              | Remain vigilant, maintain position while sleeping.                                                        |               |
 | Biomods                           |     B     |    Min/1              | Genetic tweaks for health, faster healing, immunities, and more.                                          |               |
+| Bioweave                          |     B     |    Min/1              | Armor +2/+3, Concealable                                                                                  |     EP2       |
 | Bodysculpting                     |    BC     |    Min/1              | Customized body mods.                                                                                     |   Shaping     |
 | Brachiating Adaptation            |     B     |    Mod/2              | Brachiate 8/32, +10 Reach.                                                                                |   Mobility    |
 | Chameleon Skin                    |    B      |    Mod/2              | Change skin color. +10 Infiltrate, +30 still and covered.                                                 | Infiltration  |
 | Chem Sniffer                      |    C      |    Mod/2              | Detect gases, explosives, firearms, toxins. Know: Chemistry 60.                                           |    Senses     |
-| Circadian Regulation              |    B      |    Mod/2               | Need only 2 hours of sleep. Long recharges take 2 hours.                                                  |               |
+| Circadian Regulation              |    B      |    Mod/2              | Need only 2 hours of sleep. Long recharges take 2 hours.                                                  |               |
 | Clean Metabolism                  |     B     |    Min/1              | Symbiotic bacteria, gut flora, and glands keep you clean and fresh.                                       |               |
 | Cold Tolerance                    |     B     |    Min/1              | Handle temps as low as −80&nbsp;°C/−112&nbsp;°F.                                                          |               |
 | Cortical Stack                    |    CN     |    Min/1              | Memory diamond storage unit for ego backups.                                                              |  Failsafes    |
@@ -24,6 +25,7 @@
 | Cyberlimb Plus                    |     C     |    Maj/3              | Replacement/extra limb. As cyberlimb, +1 Vigor pool.                                                      |               |
 | Data Module                       |    C      |    Min/1              | Encrypted data storage.                                                                                   |     Comms     |
 | Dead Switch                       |    C      |    Min/1              | Wipes and melts your cortical stack if killed.                                                            |  Failsafes    |
+| Dermal Armor                      |     B     |    Min/1              | Armor +4/+5, -20 touch perception                                                                         |     EP2       |
 | Diamond Buzzsaw                   |    C      |    Min/1              | DV 1d10 + 6, Armor-Piercing, Concealable.                                                                 |               |
 | Digestive Symbiotes               |     N     |    Mod/2              | Safely eat most organics; protects vs. oral biochem toxins.                                               |               |
 | Digging Claws                     |    BC     |    Min/1              | DV 1d10 + 3.                                                                                              |               |
@@ -99,6 +101,7 @@
 | Refractive Coating                |     N     |    Maj/3              | Protection from heat/radiation; AV +10/+0.                                                                |               |
 | Remote Backup Link                |    C      |    Maj/3              | Quantum farcaster for remote backup every 48 hrs.                                                         |  Failsafes    |
 | Respirocytes                      |     N     |    Mod/2              | Artificial blood cells, provide 4 hours of air, +5&nbsp;DUR, +1&nbsp;WT, +8&nbsp;DR.                      |               |
+| Scale/<wbr>Carapace Armor         |     B     |    Mod/2              | Armor +6/+7, -20 touch perception                                                                         |     EP2       |
 | Scent Alteration                  |     B     |    Min/1              | Excrete designer smells.                                                                                  |               |
 | Sex Switch                        |     B     |    Mod/2              | Switch between male, female, intersex, or neuter in 1 week.                                               |   Shaping     |
 | Skeletal Disguise                 |     C     |    Min/1              | −30 modifier to match skeletal pattern with sensors.                                                      |               |

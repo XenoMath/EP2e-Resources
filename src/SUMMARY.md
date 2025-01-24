@@ -26,6 +26,7 @@
     - [Mobility Augmentations](01-gear/01-ware/mobility.md)
     - [Combat Augmentations]()
     - [Mental Augmentations]()
+    - [Armor ware]()
     - [Mesh ware]()
   - [Bots](01-gear/02-bots/00-bots.md)
 
