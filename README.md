@@ -1,6 +1,6 @@
 # A Collection of Resources for Eclipse Phase 2e
 
-Unless under otherwise stated the information is taken from the various source books for [Eclipse Phase and Eclipse Phase 2e]((https://eclipsephase.com/)) created by [Posthuman Studios, LLC](https://posthumanstudios.com/).
+Unless under otherwise stated the information is taken from the various source books for [Eclipse Phase and Eclipse Phase 2e](https://eclipsephase.com/) created by [Posthuman Studios, LLC](https://posthumanstudios.com/).
 
 Layout, structure and initial adaptation is taken from [EclipsePhase2e-ptbr](https://github.com/luizbgomide/EclipsePhase2e-ptbr) by Luiz Borges Gomide
 
