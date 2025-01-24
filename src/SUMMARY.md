@@ -1,4 +1,6 @@
 # Summary
+- [Welcome](welcome.md)
+
 # For players
 - [Gear](01-gear/00-gear.md)
   - [Ware](01-gear/01-ware/00-ware.md)
