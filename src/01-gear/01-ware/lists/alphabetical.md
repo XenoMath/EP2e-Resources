@@ -156,16 +156,3 @@
 | Vacuum Sealing                    |     B     |    Min/1              | Can survive exposure to vacuum.                                                                           |               |
 | Weapon Mount                      |    CH     |    Min/R/1            | Hardpoint holds one static/swiveling/articulated weapon. Concealable.                                     |               |
 | Wings                             |    BCH    |    Mod/2              | Enable flight if small or in low gravities. Movement Rate Winged 8/32 (medium) or 8/40 (small).           |   Mobility    |
-
-
-**Bioweave:** The morph’s dermal layers are laced with spidersilk fibers, providing protection without changing the appearance, texture, or sensitivity of the skin.
-
-**Dermal Armor:** The morph is equipped with a dense layer of ballistic fibers and flexible subdermal plates. This does not reduce mobility, but it does make the skin smoother and less flexible (except at the joints), and the plated areas are visibly raised. The morph’s touch-based perception suffers a −20 modifier.
-
-**Heavy Combat Armor:** These bulky and noticeable armor plates protect against heavy weaponry for serious combat operations. The shell’s mobility systems and power output are also modified to handle the extra mass.
-
-**Industrial Armor:** This armor is designed to protect shells from collisions, extreme weather, industrial accidents, and similar wear-and-tear.
-
-**Light Combat Armor:** This light plating is common for shells used in security and policing duties.
-
-**Scale/Carapace:** As dermal armor, but combined with hard but flexible external chitinous scales and/or plates, modeled on arthropod exoskeletons. This armor is obvious and the skin has the appearance of a crocodile, insect, pangolin, snake, or similarly armored creature.
