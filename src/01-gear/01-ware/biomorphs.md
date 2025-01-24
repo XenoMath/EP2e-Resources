@@ -1,4 +1,4 @@
-# Augmentations for Biomorphs without Cyberbrains
+# Augmentations for Biomorphs and Podmorphs without Cyberbrains
 
 | AUGMENTATIONS                     | Ware Type | Comp/<wbr>GP          | Description                                                                                               | Source        |
 | :-------------------------------- | :-------: | :----------:          | :----------------------------------------------------------------------                                   |:------------- |
