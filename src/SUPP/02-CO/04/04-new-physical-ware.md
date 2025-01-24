@@ -2,26 +2,26 @@
 
 <!--sort-->
 
-| PHYSICAL WARE          | Ware Type | Comp/<wbr>GP | Description                                                                  |
-| :--------------------- | :-------: | :----------: | :--------------------------------------------------------------------------- |
-| Brachiating Adaptation |    BH     |    Mod/2     | Brachiate 8/32, +10 Reach.                                                   |
-| Convertible Form       |     H     |    Min/1     | Transform into a pre-set configuration in 3 action turns.                    |
-| Digestive Symbiotes    |     N     |    Mod/2     | Safely eat most organics; protects vs. oral biochem toxins.                  |
-| Digging Claws          |    BCH    |    Min/1     | DV 1d10 + 3.                                                                 |
-| Efficient Metabolism   |    BN     |    Mod/2     | Eat/drink once per week; survive 1–2 months w/o food/water.                  |
-| Extra Limbs            |    BCH    |    Min/1     | Pair of extra limbs.                                                         |
-| Gliding Membrane       |    BCH    |    Min/1     | Gliding 8/32; use Athletics.                                                 |
-| Heat Tolerance         |    BH     |    Min/1     | Handle temps as high as 130 F/500 F.                                         |
-| High-G Adaptation      |    BH     |    Min/1     | Treat gravity as if 1&nbsp;g less. Requires hardened skeleton.               |
-| Laser Link (Medium)    |    CH     |    Maj/3     | 500,000 km range in space.                                                   |
-| Long-Term Life Support |     N     |    Maj/3     | Survive without air, food, or water up to one year.                          |
-| Magnetic Generator     |    CH     |    Maj/3     | Thrust-Vector 8/40; use Pilot: Space; +15/+0 AV.                             |
-| Oozeware               |     H     |    Maj/3     | Limited but faster (1d6 turns) shape adjusting, AV 4/half.                   |
-| Plasma Sail            |    CH     |    Mod/2     | Thrust-Vector 8/40; use Pilot: Space.                                        |
-| Radiation Tolerance    |    BH     |    Min/1     | Protection from radiation; bioware requires medichines.                      |
-| Refractive Coating     |     N     |    Maj/3     | Protection from heat/radiation; AV +10/+0.                                   |
-| Swarm Shape            |     H     |    Mod/2     | Create physical shapes and manipulate Very Small objects. Swarm morphs only. |
-| Swim Bladder           |    BCH    |    Min/1     | Control buoyancy to float/ascend/descend.                                    |
+| PHYSICAL WARE          | Ware Type | Comp/<wbr>GP | Description                                                                  | New Location |
+| :--------------------- | :-------: | :----------: | :--------------------------------------------------------------------------- ||
+| Brachiating Adaptation |    BH     |    Mod/2     | Brachiate 8/32, +10 Reach.                                                   |   Mobility   |
+| Convertible Form       |     H     |    Min/1     | Transform into a pre-set configuration in 3 action turns.                    |   Shaping    |
+| Digestive Symbiotes    |     N     |    Mod/2     | Safely eat most organics; protects vs. oral biochem toxins.                  ||
+| Digging Claws          |    BCH    |    Min/1     | DV 1d10 + 3.                                                                 ||
+| Efficient Metabolism   |    BN     |    Mod/2     | Eat/drink once per week; survive 1–2 months w/o food/water.                  ||
+| Extra Limbs            |    BCH    |    Min/1     | Pair of extra limbs.                                                         ||
+| Gliding Membrane       |    BCH    |    Min/1     | Gliding 8/32; use Athletics.                                                 |   Mobility   |
+| Heat Tolerance         |    BH     |    Min/1     | Handle temps as high as 130 F/500 F.                                         ||
+| High-G Adaptation      |    BH     |    Min/1     | Treat gravity as if 1&nbsp;g less. Requires hardened skeleton.               ||
+| Laser Link (Medium)    |    CH     |    Maj/3     | 500,000 km range in space.                                                   ||
+| Long-Term Life Support |     N     |    Maj/3     | Survive without air, food, or water up to one year.                          ||
+| Magnetic Generator     |    CH     |    Maj/3     | Thrust-Vector 8/40; use Pilot: Space; +15/+0 AV.                             |   Mobility   |
+| Oozeware               |     H     |    Maj/3     | Limited but faster (1d6 turns) shape adjusting, AV 4/half.                   |   Shaping    |
+| Plasma Sail            |    CH     |    Mod/2     | Thrust-Vector 8/40; use Pilot: Space.                                        |   Mobility   |
+| Radiation Tolerance    |    BH     |    Min/1     | Protection from radiation; bioware requires medichines.                      ||
+| Refractive Coating     |     N     |    Maj/3     | Protection from heat/radiation; AV +10/+0.                                   ||
+| Swarm Shape            |     H     |    Mod/2     | Create physical shapes and manipulate Very Small objects. Swarm morphs only. |   Shaping    |
+| Swim Bladder           |    BCH    |    Min/1     | Control buoyancy to float/ascend/descend.                                    |   Mobility   |
 
 <!--sort-->
 

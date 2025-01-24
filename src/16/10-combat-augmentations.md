@@ -21,7 +21,7 @@ The following augmentations have specific applications for combat and dangerous 
 | Pain Regulator         |     B     |        Mod/2        | Dulls pain experience. Ignore 1 wound effect.                                        |              |
 | Pneumatics             |     H     |        Maj/3        | Soft actuators. +10 Athletics, +1d6&nbsp;\[4\]&nbsp;DV melee.                        |              |
 | Poison Glands          |     B     |   Min/R/1 + Toxin   | Produces one type of poison.                                                         |              |
-| Radar Absorbent        |     H     |        Mod/2        | −30 Perceive using radar/terahertz.                                                  |              |
+| Radar Absorbent        |     H     |        Mod/2        | −30 Perceive using radar/terahertz.                                                  | Infiltration |
 | Reflex Boosters        |    CH     |        Maj/3        | Spine and nervous system rewired. +3&nbsp;INIT, +10&nbsp;REF Check.                  |              |
 | Respirocytes           |     N     |        Mod/2        | Artificial blood cells, provide 4 hours of air, +5&nbsp;DUR, +1&nbsp;WT, +8&nbsp;DR. |              |
 | Smart Actuators        |     H     |        Mod/2        | Faster/stronger robotics. +1 Vigor.                                                  |              |

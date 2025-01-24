@@ -2,16 +2,16 @@
 
 <!--sort-->
 
-| COMBAT WARE            | Ware Type | Comp/<wbr>GP | Description                                                                    |
-| :--------------------- | :-------: | :----------: | :----------------------------------------------------------------------------- |
-| Acceleration Tolerance |    BH     |    Min/1     | Biomorphs can handle 15 g of sustained acceleration, synthmorphs 30 g.         |
-| Boomscatter            |     H     |    Min/1     | Scatter apart to halve damage from impact/explosion. Requires shape adjusting. |
-| Diamond Buzzsaw        |    CH     |    Min/1     | DV 1d10 + 6, Armor-Piercing, Concealable.                                      |
-| Grasping Tendril       |    BCH    |    Mod/2     | Concealable, DV 1d10 +2, Reach (+10), +10 grappling.                           |
-| Injectors              |     H     |    Min/1     | Attacks can inflict 1 dose on any target in swarm. Swarm morphs only.          |
-| Jaws                   |     H     |    Min/1     | Swarm attacks inflict an extra DV 1d6. Swarm morphs only.                      |
-| Omni-Joints            |     H     |    Maj/3     | +10 Athletics, Fray, and Melee. Requires shape adjusting.                      |
-| Stealth Coating        |     H     |   Maj/3/R    | Invisibility, −60 to Perceive, −30 to target, possible 50% miss chance.        |
+| COMBAT WARE            | Ware Type | Comp/<wbr>GP | Description                                                                    | New Location |
+| :--------------------- | :-------: | :----------: | :----------------------------------------------------------------------------- |:-------------|
+| Acceleration Tolerance |    BH     |    Min/1     | Biomorphs can handle 15 g of sustained acceleration, synthmorphs 30 g.         ||
+| Boomscatter            |     H     |    Min/1     | Scatter apart to halve damage from impact/explosion. Requires shape adjusting. ||
+| Diamond Buzzsaw        |    CH     |    Min/1     | DV 1d10 + 6, Armor-Piercing, Concealable.                                      ||
+| Grasping Tendril       |    BCH    |    Mod/2     | Concealable, DV 1d10 +2, Reach (+10), +10 grappling.                           ||
+| Injectors              |     H     |    Min/1     | Attacks can inflict 1 dose on any target in swarm. Swarm morphs only.          ||
+| Jaws                   |     H     |    Min/1     | Swarm attacks inflict an extra DV 1d6. Swarm morphs only.                      ||
+| Omni-Joints            |     H     |    Maj/3     | +10 Athletics, Fray, and Melee. Requires shape adjusting.                      ||
+| Stealth Coating        |     H     |   Maj/3/R    | Invisibility, −60 to Perceive, −30 to target, possible 50% miss chance.        ||
 
 <!--sort-->
 
