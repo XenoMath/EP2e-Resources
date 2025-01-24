@@ -2,7 +2,12 @@
 # For players
 - [Gear](01-gear/00-gear.md)
   - [Ware](01-gear/01-ware/00-ware.md)
-    - [Alphabetical](01-gear/01-ware/alphabetical.md)
+      - [Alphabetical](01-gear/01-ware/alphabetical.md)
+      - [Bio Ware](01-gear/01-ware/bio.md)
+      - [Cyber Ware](01-gear/01-ware/cyber.md)
+      - [Hard ware](01-gear/01-ware/hard.md)
+      - [Nano Ware](01-gear/01-ware/nano.md)
+      - [Mesh Ware](01-gear/01-ware/mesh.md)
     - [Physical Augmentations]()
     - [Lifestyle Augmentations]()
     - [Communications Augmentations](01-gear/01-ware/03-comms.md)
