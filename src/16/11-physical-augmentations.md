@@ -4,36 +4,36 @@ Less combat-oriented, but no less useful, these body mods increase capabilities 
 
 <!--sort-->
 
-| PHYSICAL AUGMENTATIONS | Ware Type | Comp/<wbr>GP | Description                                                                                              |
-| :--------------------- | :-------: | :----------: | :------------------------------------------------------------------------------------------------------- |
-| Circadian Regulation   |    BM     |    Mod/2     | Need only 2 hours of sleep. Long recharges take 2 hours.                                                 |
-| Cold Tolerance         |     B     |    Min/1     | Handle temps as low as −80&nbsp;°C/−112&nbsp;°F.                                                         |
-| Cryogenic Protection   |    CH     |    Mod/2     | Handle temps as low as −120/−200&nbsp;°C (biomorphs) or lower (synthmorphs).                             |
-| Cyberlimb              |     C     |    Mod/2     | Replacement limb. 6/4&nbsp;AV when targeted, +5&nbsp;SOM Check.                                          |
-| Cyberlimb Plus         |     C     |    Maj/3     | Replacement/extra limb. As cyberlimb, +1 Vigor pool.                                                     |
-| Enhanced Respiration   |     B     |    Min/1     | Breathe wider range of atmospheres, hold breath longer.                                                  |
-| Fractal Digits         |    CH     |    Min/1     | +10 Hardware Tests involving ultra-fine manipulation.                                                    |
-| Gas-Jet System         |    CH     |    Mod/2     | Movement Rate Thrust Vector (Gas Jet) at 4/12 (biomorphs) or 8/40 (synthmorphs).                         |
-| Gills                  |     B     |    Min/1     | Breathe both air and water.                                                                              |
-| Grip Pads              |    BCH    |    Min/1     | +30 climbing Athletics Tests.                                                                            |
-| Hibernation            |     B     |    Min/1     | Reduce metabolism, need only 5% normal amount of food, water, and air.                                   |
-| Hidden Compartment     |    CH     |    Min/1     | Concealed, shielded compartment. +30 Infiltrate to hide items.                                           |
-| Magnetic System        |    CH     |    Min/1     | +30&nbsp;SOM Checks to cling to ferrous materials and objects.                                           |
-| Mobility System        |     H     |    Mod/2     | Additional specified [movement type](../12/24-movement.md#movement-types).                               |
-| Modular Design         |     H     |    Mod/2     | Lock with other modules to create gestalt forms. [Flexbot Rules](../04/25-synthmorphs.md#flexbot-rules). |
-| Nanotat ID Flux        |     N     |   Maj/R/3    | Switch out your nanotat ID.                                                                              |
-| Oxygen Reserve         |     C     |    Min/1     | Oxygen tank/rebreather with 4 hours of air.                                                              |
-| Prehensile Feet        |    BCH    |    Min/1     | Can use feet as hands. −8 full move.                                                                     |
-| Prehensile Tail        |    BCH    |    Min/1     | Can grip with tail. +10 balanced-based Athletics.                                                        |
-| Pressure Adaptation    |    BH     |    Min/1     | Handle extreme pressure.                                                                                 |
-| Retracting Limbs       |     H     |    Min/1     | Limb retracts, can hold 1 small item.                                                                    |
-| Shape Adjusting        |     H     |    Maj/3     | Smart material composition, can create 2 Min or 1 Mod item/ware, more.                                   |
-| Skin Pocket            |     B     |    Min/1     | Concealment for very small (and some small) items (+30 Infiltrate).                                      |
-| Skinlink               |    HN     |    Min/1     | Create a “hardwired” mesh link by touch.                                                                 |
-| Thermogenic Protection |     H     |    Mod/2     | Handle high temps up to 1,000&nbsp;°C.                                                                   |
-| Utilimod               |    CH     |    Mod/2     | Implanted utilitool.                                                                                     |
-| Vacuum Sealing         |     B     |    Min/1     | Can survive exposure to vacuum.                                                                          |
-| Wings                  |    BCH    |    Mod/2     | Enable flight if small or in low gravities. Movement Rate Winged 8/32 (medium) or 8/40 (small).          |
+| PHYSICAL AUGMENTATIONS | Ware Type | Comp/<wbr>GP | Description                                                                                              | New Location |
+| :--------------------- | :-------: | :----------: | :------------------------------------------------------------------------------------------------------- |:-------------|
+| Circadian Regulation   |    BM     |    Mod/2     | Need only 2 hours of sleep. Long recharges take 2 hours.                                                 |              |
+| Cold Tolerance         |     B     |    Min/1     | Handle temps as low as −80&nbsp;°C/−112&nbsp;°F.                                                         |              |
+| Cryogenic Protection   |    CH     |    Mod/2     | Handle temps as low as −120/−200&nbsp;°C (biomorphs) or lower (synthmorphs).                             |              |
+| Cyberlimb              |     C     |    Mod/2     | Replacement limb. 6/4&nbsp;AV when targeted, +5&nbsp;SOM Check.                                          |              |
+| Cyberlimb Plus         |     C     |    Maj/3     | Replacement/extra limb. As cyberlimb, +1 Vigor pool.                                                     |              |
+| Enhanced Respiration   |     B     |    Min/1     | Breathe wider range of atmospheres, hold breath longer.                                                  |              |
+| Fractal Digits         |    CH     |    Min/1     | +10 Hardware Tests involving ultra-fine manipulation.                                                    |              |
+| Gas-Jet System         |    CH     |    Mod/2     | Movement Rate Thrust Vector (Gas Jet) at 4/12 (biomorphs) or 8/40 (synthmorphs).                         |              |
+| Gills                  |     B     |    Min/1     | Breathe both air and water.                                                                              |              |
+| Grip Pads              |    BCH    |    Min/1     | +30 climbing Athletics Tests.                                                                            |              |
+| Hibernation            |     B     |    Min/1     | Reduce metabolism, need only 5% normal amount of food, water, and air.                                   |              |
+| Hidden Compartment     |    CH     |    Min/1     | Concealed, shielded compartment. +30 Infiltrate to hide items.                                           |              |
+| Magnetic System        |    CH     |    Min/1     | +30&nbsp;SOM Checks to cling to ferrous materials and objects.                                           |              |
+| Mobility System        |     H     |    Mod/2     | Additional specified [movement type](../12/24-movement.md#movement-types).                               |              |
+| Modular Design         |     H     |    Mod/2     | Lock with other modules to create gestalt forms. [Flexbot Rules](../04/25-synthmorphs.md#flexbot-rules). |              |
+| Nanotat ID Flux        |     N     |   Maj/R/3    | Switch out your nanotat ID.                                                                              |              |
+| Oxygen Reserve         |     C     |    Min/1     | Oxygen tank/rebreather with 4 hours of air.                                                              |  Failsafes   |
+| Prehensile Feet        |    BCH    |    Min/1     | Can use feet as hands. −8 full move.                                                                     |              |
+| Prehensile Tail        |    BCH    |    Min/1     | Can grip with tail. +10 balanced-based Athletics.                                                        |              |
+| Pressure Adaptation    |    BH     |    Min/1     | Handle extreme pressure.                                                                                 |              |
+| Retracting Limbs       |     H     |    Min/1     | Limb retracts, can hold 1 small item.                                                                    |              |
+| Shape Adjusting        |     H     |    Maj/3     | Smart material composition, can create 2 Min or 1 Mod item/ware, more.                                   |              |
+| Skin Pocket            |     B     |    Min/1     | Concealment for very small (and some small) items (+30 Infiltrate).                                      |              |
+| Skinlink               |    HN     |    Min/1     | Create a “hardwired” mesh link by touch.                                                                 |    Comms     |
+| Thermogenic Protection |     H     |    Mod/2     | Handle high temps up to 1,000&nbsp;°C.                                                                   |              |
+| Utilimod               |    CH     |    Mod/2     | Implanted utilitool.                                                                                     |              |
+| Vacuum Sealing         |     B     |    Min/1     | Can survive exposure to vacuum.                                                                          |              |
+| Wings                  |    BCH    |    Mod/2     | Enable flight if small or in low gravities. Movement Rate Winged 8/32 (medium) or 8/40 (small).          |              |
 
 <!--sort-->
 

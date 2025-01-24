@@ -4,24 +4,24 @@ This ware improves your morph’s sensory capabilities.
 
 <!--sort-->
 
-| SENSORY AUGMENTATIONS | Ware Type | Comp/<wbr>GP | Description                                                                      |
-| :-------------------- | :-------: | :----------: | :------------------------------------------------------------------------------- |
-| 360° Vision           |    BCH    |    Min/1     | See in all directions at once.                                                   |
-| Anti-Glare            |    CH     |    Min/1     | No glare penalties.                                                              |
-| Chem Sniffer          |    CH     |    Mod/2     | Detect gases, explosives, firearms, toxins. Know: Chemistry 60.                  |
-| Direction Sense       |    BCH    |    Min/1     | Innate sense of direction and distance. +10 navigation-based Survival Tests.     |
-| Electrical Sense      |    CH     |    Min/1     | Sense electrical fields within 5&nbsp;m.                                         |
-| Enhanced Hearing      |    BCH    |    Min/1     | Hear higher and lower frequencies. +10 hearing-based Perceive.                   |
-| Enhanced Smell        |    BCH    |    Min/1     | +10 smell-based Perceive, +10 Kinesics with biomorphs point-blank.               |
-| Enhanced Vision       |    BCH    |    Mod/2     | Tetrachromatic vision, wider frequency range, better focus. +10 vision Perceive. |
-| Lidar                 |     H     |    Min/1     | Use reflected laser light to image and judge range and speed.                    |
-| Nanoscopic Vision     |     H     |    Mod/2     | View nanoscale objects and nanobots.                                             |
-| Oracles               |    CHM    |    Mod/2     | +10 Perceive, negate distraction modifiers.                                      |
-| Polarization Vision   |    BCH    |    Min/1     | See polarized light, ignore camo modifiers.                                      |
-| Radar                 |     H     |    Min/1     | Motion detector, can also judge size and composition.                            |
-| Radiation Sense       |    CH     |    Min/1     | Detect radiation sources.                                                        |
-| Sonar                 |    BCH    |    Min/1     | Sonar, range 20&nbsp;m air/100&nbsp;m water.                                     |
-| T-Ray Emitter         |    CH     |    Min/1     | Use enhanced vision to see through materials.                                    |
+| SENSORY AUGMENTATIONS | Ware Type | Comp/<wbr>GP | Description                                                                      | New Location |
+| :-------------------- | :-------: | :----------: | :------------------------------------------------------------------------------- |:-------------|
+| 360° Vision           |    BCH    |    Min/1     | See in all directions at once.                                                   |              |
+| Anti-Glare            |    CH     |    Min/1     | No glare penalties.                                                              |              |
+| Chem Sniffer          |    CH     |    Mod/2     | Detect gases, explosives, firearms, toxins. Know: Chemistry 60.                  |              |
+| Direction Sense       |    BCH    |    Min/1     | Innate sense of direction and distance. +10 navigation-based Survival Tests.     |              |
+| Electrical Sense      |    CH     |    Min/1     | Sense electrical fields within 5&nbsp;m.                                         |              |
+| Enhanced Hearing      |    BCH    |    Min/1     | Hear higher and lower frequencies. +10 hearing-based Perceive.                   |              |
+| Enhanced Smell        |    BCH    |    Min/1     | +10 smell-based Perceive, +10 Kinesics with biomorphs point-blank.               |              |
+| Enhanced Vision       |    BCH    |    Mod/2     | Tetrachromatic vision, wider frequency range, better focus. +10 vision Perceive. |              |
+| Lidar                 |     H     |    Min/1     | Use reflected laser light to image and judge range and speed.                    |              |
+| Nanoscopic Vision     |     H     |    Mod/2     | View nanoscale objects and nanobots.                                             |              |
+| Oracles               |    CHM    |    Mod/2     | +10 Perceive, negate distraction modifiers.                                      |              |
+| Polarization Vision   |    BCH    |    Min/1     | See polarized light, ignore camo modifiers.                                      |              |
+| Radar                 |     H     |    Min/1     | Motion detector, can also judge size and composition.                            |              |
+| Radiation Sense       |    CH     |    Min/1     | Detect radiation sources.                                                        |              |
+| Sonar                 |    BCH    |    Min/1     | Sonar, range 20&nbsp;m air/100&nbsp;m water.                                     |              |
+| T-Ray Emitter         |    CH     |    Min/1     | Use enhanced vision to see through materials.                                    |              |
 
 <!--sort-->
 

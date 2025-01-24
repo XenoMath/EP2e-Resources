@@ -2,21 +2,21 @@
 
 <!--sort-->
 
-| MENTAL WARE         | Ware Type | Comp/<wbr>GP | Description                                                                                    |
-| :------------------ | :-------: | :----------: | :--------------------------------------------------------------------------------------------- |
-| Asymmetric Sleep    |    BM     |    Min/1     | Remain vigilant, maintain position while sleeping.                                             |
-| Auto Backup         |     M     |    Mod/2     | Secure backup via mesh every 48 hours.                                                         |
-| Brain Box           |    BC     |    Min/1     | Biological brain for pod/synthmorph.                                                           |
-| Core System         |    CH     |      NA      | Cyberbrain for ships/habitats/infrastructure.                                                  |
-| Defrag              |     M     |    Mod/2     | Recover additional pool point with each short rest.                                            |
-| Failsafe            |     N     |    Min/1     | If infected, ejects stack/erases cyberbrain and kills body. Requires medichines or nanophages. |
-| Fake Brainprint     |     M     |   Maj/3/R    | Alters prints; 5% detection with quick scans, 10% full scans.                                  |
-| Hypermesh Link      |    CHM    |   Maj/3/R    | Group mind-state, +1 Insight, can use Insight to borrow skills.                                |
-| Multi-Ego Controls  |    HM     |    Maj/3     | Multiple egos may control the same morph simultaneously.                                       |
-| Multi-Focus         |    CHM    |    Min/1     | Focus on 1 additional thing at once or maintain ongoing mental task. Requires multi-tasking.   |
-| Optogenetics Module |     C     |    Min/1     | Trigger one pre-specified neural function.                                                     |
-| Possum Cache        |    CH     |    Min/1     | Cyberbrain/ghostrider/mesh functions after hibernation/death.                                  |
-| Stabilizer          |     M     |    Mod/2     | Heal 1 stress per day.                                                                         |
+| MENTAL WARE         | Ware Type | Comp/<wbr>GP | Description                                                                                    | New Location |
+| :------------------ | :-------: | :----------: | :--------------------------------------------------------------------------------------------- |:-------------|
+| Asymmetric Sleep    |    BM     |    Min/1     | Remain vigilant, maintain position while sleeping.                                             |              |
+| Auto Backup         |     M     |    Mod/2     | Secure backup via mesh every 48 hours.                                                         |  Failsafes   |
+| Brain Box           |    BC     |    Min/1     | Biological brain for pod/synthmorph.                                                           |              |
+| Core System         |    CH     |      NA      | Cyberbrain for ships/habitats/infrastructure.                                                  |              |
+| Defrag              |     M     |    Mod/2     | Recover additional pool point with each short rest.                                            |              |
+| Failsafe            |     N     |    Min/1     | If infected, ejects stack/erases cyberbrain and kills body. Requires medichines or nanophages. |  Failsafes   |
+| Fake Brainprint     |     M     |   Maj/3/R    | Alters prints; 5% detection with quick scans, 10% full scans.                                  |              |
+| Hypermesh Link      |    CHM    |   Maj/3/R    | Group mind-state, +1 Insight, can use Insight to borrow skills.                                |              |
+| Multi-Ego Controls  |    HM     |    Maj/3     | Multiple egos may control the same morph simultaneously.                                       |              |
+| Multi-Focus         |    CHM    |    Min/1     | Focus on 1 additional thing at once or maintain ongoing mental task. Requires multi-tasking.   |              |
+| Optogenetics Module |     C     |    Min/1     | Trigger one pre-specified neural function.                                                     |              |
+| Possum Cache        |    CH     |    Min/1     | Cyberbrain/ghostrider/mesh functions after hibernation/death.                                  |  Failsafes   |
+| Stabilizer          |     M     |    Mod/2     | Heal 1 stress per day.                                                                         |              |
 
 <!--sort-->
 

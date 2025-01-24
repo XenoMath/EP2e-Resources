@@ -1,8 +1,24 @@
 # Summary
-# New stuff
+# For players
 - [Gear](01-gear/00-gear.md)
   - [Ware](01-gear/01-ware/00-ware.md)
+    - [Physical Augmentations]()
+    - [Lifestyle Augmentations]()
+    - [Communications Augmentations](01-gear/01-ware/03-comms.md)
+    - [Failsafe Augmentations]()
+    - [Sensory Augmentations]()
+    - [Infiltration Augmentations]()
+    - [Social Augmentations]()
+    - [Mobility Augmentations]()
+    - [Combat Augmentations]()
+    - [Mental Augmentations]()
+    - [Mesh ware]()
   - [Bots](01-gear/02-bots/00-bots.md)
+
+---
+
+# GM Eyes Only
+
 # EP2e
 - [Infamy](01/00-infamy.md)
 - [Starting Out](02/00-starting-out.md)

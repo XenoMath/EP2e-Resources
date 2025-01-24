@@ -8,15 +8,15 @@ Most morphs include the following augmentations.
 
 <!--sort-->
 
-| STANDARD AUGMENTATIONS | Ware Type | Comp/<wbr>GP | Description                                                             |
-| :--------------------- | :-------: | :----------: | :---------------------------------------------------------------------- |
-| Access Jacks           |    CH     |    Min/1     | External sockets for direct interface with mesh inserts/cyberbrains.    |
-| Biomods                |     B     |    Min/1     | Genetic tweaks for health, faster healing, immunities, and more.        |
-| Cortical Stack         |    CHN    |    Min/1     | Memory diamond storage unit for ego backups.                            |
-| Cyberbrain             |    CH     |    Maj/3     | Synthetic brain, runs infomorph mind-state.                             |
-| Mesh Inserts           |    CH     |    Min/1     | Cranial computer, wireless transceiver, muse home, and medical sensors. |
-| Mnemonics              |    CHM    |    Min/1     | Enhanced memory; +20 memory-related COG checks.                         |
-| Puppet Sock            |    CH     |    Mod/2     | Allows morph to be remote controlled.                                   |
+| STANDARD AUGMENTATIONS | Ware Type | Comp/<wbr>GP | Description                                                             | New Location |
+| :--------------------- | :-------: | :----------: | :---------------------------------------------------------------------- |:-------------|
+| Access Jacks           |    CH     |    Min/1     | External sockets for direct interface with mesh inserts/cyberbrains.    |     Comms    |
+| Biomods                |     B     |    Min/1     | Genetic tweaks for health, faster healing, immunities, and more.        |              |
+| Cortical Stack         |    CHN    |    Min/1     | Memory diamond storage unit for ego backups.                            |  Failsafes   |
+| Cyberbrain             |    CH     |    Maj/3     | Synthetic brain, runs infomorph mind-state.                             |              |
+| Mesh Inserts           |    CH     |    Min/1     | Cranial computer, wireless transceiver, muse home, and medical sensors. |     Comms    |
+| Mnemonics              |    CHM    |    Min/1     | Enhanced memory; +20 memory-related COG checks.                         |              |
+| Puppet Sock            |    CH     |    Mod/2     | Allows morph to be remote controlled.                                   |     Comms    |
 
 <!--sort-->
 

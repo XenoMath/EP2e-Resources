@@ -4,20 +4,20 @@ Most headware augmentations enhance the brain and mental functions.
 
 <!--sort-->
 
-| MENTAL AUGMENTATIONS   | Ware Type | Comp/<wbr>GP | Description                                                                              |
-| :--------------------- | :-------: | :----------: | :--------------------------------------------------------------------------------------- |
-| Cybercortex            |     C     |    Mod/2     | Smart animal brain aid, +10 comprehension COG Checks, +10 Exotic Skill: Animal Handling. |
-| Data Module            |    CH     |    Min/1     | Encrypted data storage.                                                                  |
-| Dead Switch            |    CH     |    Min/1     | Wipes and melts your cortical stack if killed.                                           |
-| Drone Rig              |    CHM    |    Mod/2     | Ignore the −10 modifier when jamming.                                                    |
-| Emergency Farcaster    |    CH     |   Maj/R/3    | Neutrino farcaster for emergency egocasting if killed/triggered.                         |
-| Ghostrider Module      |    CH     |    Min/1     | Carries an infomorph.                                                                    |
-| Memory Lock            |    CHM    |    Min/1     | Blocks memory retention/recording when activated.                                        |
-| Mind Amp               |    HMN    |    Maj/3     | Accelerates mind. +2 Insight.                                                            |
-| Multi-Tasking          |    CHM    |    Mod/2     | Focus on 2 things at once. +1 Insight.                                                   |
-| Multiple Personalities |    BM     |    Maj/3     | Brain holds multiple egos.                                                               |
-| Remote Backup Link     |    CH     |    Maj/3     | Quantum farcaster for remote backup every 48 hrs.                                        |
-| Skillware              |    CHM    |    Maj/3     | Can use 120 points of skillsofts.                                                        |
+| MENTAL AUGMENTATIONS   | Ware Type | Comp/<wbr>GP | Description                                                                              | New Location |
+| :--------------------- | :-------: | :----------: | :--------------------------------------------------------------------------------------- |:-------------|
+| Cybercortex            |     C     |    Mod/2     | Smart animal brain aid, +10 comprehension COG Checks, +10 Exotic Skill: Animal Handling. |              |
+| Data Module            |    CH     |    Min/1     | Encrypted data storage.                                                                  |     Comms    |
+| Dead Switch            |    CH     |    Min/1     | Wipes and melts your cortical stack if killed.                                           |  Failsafes   |
+| Drone Rig              |    CHM    |    Mod/2     | Ignore the −10 modifier when jamming.                                                    |     Comms    |
+| Emergency Farcaster    |    CH     |   Maj/R/3    | Neutrino farcaster for emergency egocasting if killed/triggered.                         |  Failsafes   |
+| Ghostrider Module      |    CH     |    Min/1     | Carries an infomorph.                                                                    |     Comms    |
+| Memory Lock            |    CHM    |    Min/1     | Blocks memory retention/recording when activated.                                        |              |
+| Mind Amp               |    HMN    |    Maj/3     | Accelerates mind. +2 Insight.                                                            |              |
+| Multi-Tasking          |    CHM    |    Mod/2     | Focus on 2 things at once. +1 Insight.                                                   |              |
+| Multiple Personalities |    BM     |    Maj/3     | Brain holds multiple egos.                                                               |              |
+| Remote Backup Link     |    CH     |    Maj/3     | Quantum farcaster for remote backup every 48 hrs.                                        |  Failsafes   |
+| Skillware              |    CHM    |    Maj/3     | Can use 120 points of skillsofts.                                                        |              |
 
 <!--sort-->
 

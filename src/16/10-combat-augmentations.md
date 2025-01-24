@@ -4,32 +4,32 @@ The following augmentations have specific applications for combat and dangerous 
 
 <!--sort-->
 
-| COMBAT AUGMENTATIONS   | Ware Type |    Comp/<wbr>GP     | Description                                                                          |
-| :--------------------- | :-------: | :-----------------: | :----------------------------------------------------------------------------------- |
-| Adrenal Surge          |     B     |        Maj/3        | Supercharged adrenal response. +1 Vigor, ignore 1 wound.                             |
-| Drug Glands            |     B     |   Min/R/1 + Drug    | Produces one type of drug.                                                           |
-| Energy Efficiency      |    BHM    |        Maj/3        | One extra short recharge per day.                                                    |
-| Hardened Skeleton      |    CH     |        Maj/3        | Bone lacing. +1&nbsp;WT, +5&nbsp;DUR, +8/10&nbsp;DR, +10&nbsp;SOM Check.             |
-| Immunizers             |     N     |        Mod/2        | Medicine: Pharmacology 60 Test for future immunity to drug, toxin, or disease.       |
-| Medichines             |    HN     |        Maj/3        | Ignore 1 wound, heal faster, drug/toxin effect/duration halved.                      |
-| Muscle Augmentation    |    BCH    |        Maj/3        | Muscles enhanced with myofibers. +1d6&nbsp;\[4\]&nbsp;DV melee, +10&nbsp;SOM Checks. |
-| Nanophages             |     N     |        Mod/2        | SOM Check negates nanodrugs/toxins, failure halves effects.                          |
-| Nanopump               |     N     |  Min/1 + Nanodrug   | Nanobot hive, produces one type of nanodrug.                                         |
-| Nanotox Glands         |     N     | Min/R/1 + Nanotoxin | Nanobot hive, produces one type of nanotoxin.                                        |
-| Neurachem              |    BH     |        Maj/3        | Enhanced synapses and neurotransmitters. +2 Vigor.                                   |
-| Novacardium            |     B     |        Mod/2        | Enhanced heart and circulatory system. +1 Vigor.                                     |
-| Pain Regulator         |     B     |        Mod/2        | Dulls pain experience. Ignore 1 wound effect.                                        |
-| Pneumatics             |     H     |        Maj/3        | Soft actuators. +10 Athletics, +1d6&nbsp;\[4\]&nbsp;DV melee.                        |
-| Poison Glands          |     B     |   Min/R/1 + Toxin   | Produces one type of poison.                                                         |
-| Radar Absorbent        |     H     |        Mod/2        | −30 Perceive using radar/terahertz.                                                  |
-| Reflex Boosters        |    CH     |        Maj/3        | Spine and nervous system rewired. +3&nbsp;INIT, +10&nbsp;REF Check.                  |
-| Respirocytes           |     N     |        Mod/2        | Artificial blood cells, provide 4 hours of air, +5&nbsp;DUR, +1&nbsp;WT, +8&nbsp;DR. |
-| Smart Actuators        |     H     |        Mod/2        | Faster/stronger robotics. +1 Vigor.                                                  |
-| Stress Control         |    BM     |        Mod/2        | Manages stress levels. +10&nbsp;WIL Checks vs. stress, +1 Trauma Threshold.          |
-| Structural Enhancement |     H     |        Maj/3        | Tougher frame. +2&nbsp;WT, +10&nbsp;DUR, +20&nbsp;DR.                                |
-| Telescoping Limb       |    CH     |        Mod/2        | Extending limbs. +1 Reach.                                                           |
-| Toxin Filters          |     B     |        Maj/3        | +30 to apt checks to resist drugs/toxins, effect/duration halved.                    |
-| Weapon Mount           |    CH     |       Min/R/1       | Hardpoint holds one static/swiveling/articulated weapon. Concealable.                |
+| COMBAT AUGMENTATIONS   | Ware Type |    Comp/<wbr>GP     | Description                                                                          | New Location |
+| :--------------------- | :-------: | :-----------------: | :----------------------------------------------------------------------------------- |:-------------|
+| Adrenal Surge          |     B     |        Maj/3        | Supercharged adrenal response. +1 Vigor, ignore 1 wound.                             |              |
+| Drug Glands            |     B     |   Min/R/1 + Drug    | Produces one type of drug.                                                           |              |
+| Energy Efficiency      |    BHM    |        Maj/3        | One extra short recharge per day.                                                    |              |
+| Hardened Skeleton      |    CH     |        Maj/3        | Bone lacing. +1&nbsp;WT, +5&nbsp;DUR, +8/10&nbsp;DR, +10&nbsp;SOM Check.             |              |
+| Immunizers             |     N     |        Mod/2        | Medicine: Pharmacology 60 Test for future immunity to drug, toxin, or disease.       |              |
+| Medichines             |    HN     |        Maj/3        | Ignore 1 wound, heal faster, drug/toxin effect/duration halved.                      |              |
+| Muscle Augmentation    |    BCH    |        Maj/3        | Muscles enhanced with myofibers. +1d6&nbsp;\[4\]&nbsp;DV melee, +10&nbsp;SOM Checks. |              |
+| Nanophages             |     N     |        Mod/2        | SOM Check negates nanodrugs/toxins, failure halves effects.                          |              |
+| Nanopump               |     N     |  Min/1 + Nanodrug   | Nanobot hive, produces one type of nanodrug.                                         |              |
+| Nanotox Glands         |     N     | Min/R/1 + Nanotoxin | Nanobot hive, produces one type of nanotoxin.                                        |              |
+| Neurachem              |    BH     |        Maj/3        | Enhanced synapses and neurotransmitters. +2 Vigor.                                   |              |
+| Novacardium            |     B     |        Mod/2        | Enhanced heart and circulatory system. +1 Vigor.                                     |              |
+| Pain Regulator         |     B     |        Mod/2        | Dulls pain experience. Ignore 1 wound effect.                                        |              |
+| Pneumatics             |     H     |        Maj/3        | Soft actuators. +10 Athletics, +1d6&nbsp;\[4\]&nbsp;DV melee.                        |              |
+| Poison Glands          |     B     |   Min/R/1 + Toxin   | Produces one type of poison.                                                         |              |
+| Radar Absorbent        |     H     |        Mod/2        | −30 Perceive using radar/terahertz.                                                  |              |
+| Reflex Boosters        |    CH     |        Maj/3        | Spine and nervous system rewired. +3&nbsp;INIT, +10&nbsp;REF Check.                  |              |
+| Respirocytes           |     N     |        Mod/2        | Artificial blood cells, provide 4 hours of air, +5&nbsp;DUR, +1&nbsp;WT, +8&nbsp;DR. |              |
+| Smart Actuators        |     H     |        Mod/2        | Faster/stronger robotics. +1 Vigor.                                                  |              |
+| Stress Control         |    BM     |        Mod/2        | Manages stress levels. +10&nbsp;WIL Checks vs. stress, +1 Trauma Threshold.          |              |
+| Structural Enhancement |     H     |        Maj/3        | Tougher frame. +2&nbsp;WT, +10&nbsp;DUR, +20&nbsp;DR.                                |              |
+| Telescoping Limb       |    CH     |        Mod/2        | Extending limbs. +1 Reach.                                                           |              |
+| Toxin Filters          |     B     |        Maj/3        | +30 to apt checks to resist drugs/toxins, effect/duration halved.                    |              |
+| Weapon Mount           |    CH     |       Min/R/1       | Hardpoint holds one static/swiveling/articulated weapon. Concealable.                |              |
 
 <!--sort-->
 

@@ -4,20 +4,20 @@ Social ware, including cosmetic mods impacts your interactions with others and a
 
 <!--sort-->
 
-| SOCIAL AUGMENTATIONS | Ware Type | Comp/<wbr>GP | Description                                                             |
-| :------------------- | :-------: | :----------: | :---------------------------------------------------------------------- |
-| Bodysculpting        |    BCH    |    Min/1     | Customized body mods.                                                   |
-| Chameleon Skin       |    BH     |    Mod/2     | Change skin color. +10 Infiltrate, +30 still and covered.               |
-| Clean Metabolism     |     B     |    Min/1     | Symbiotic bacteria, gut flora, and glands keep you clean and fresh.     |
-| Endocrine Control    |    BM     |    Maj/3     | Control over hormones and emotions. +2 Moxie.                           |
-| Enhanced Pheromones  |     B     |    Mod/2     | +10 Persuade and Provoke with biomorphs of same species.                |
-| Nanotats             |     N     |    Min/1     | Mesh-controlled nanobot tattoos.                                        |
-| Neuromodulation      |    MN     |    Mod/2     | Control over neurotransmitters and emotions. +1 Moxie.                  |
-| Scent Alteration     |     B     |    Min/1     | Excrete designer smells.                                                |
-| Sex Switch           |     B     |    Mod/2     | Switch between male, female, intersex, or neuter in 1 week.             |
-| Skinflex             |     N     |    Mod/2     | Disguise face, skin, hair. +30 to impersonation/disguise Deceive Tests. |
-| Synthetic Cover      |     C     |    Min/1     | Faux skin covering for cyberlimb.                                       |
-| Synthetic Mask       |     H     |    Mod/2     | Faux skin for synthmorph. +30 disguise-based Deceive Tests.             |
+| SOCIAL AUGMENTATIONS | Ware Type | Comp/<wbr>GP | Description                                                             | New Location |
+| :------------------- | :-------: | :----------: | :---------------------------------------------------------------------- |:-------------|
+| Bodysculpting        |    BCH    |    Min/1     | Customized body mods.                                                   |              |
+| Chameleon Skin       |    BH     |    Mod/2     | Change skin color. +10 Infiltrate, +30 still and covered.               |              |
+| Clean Metabolism     |     B     |    Min/1     | Symbiotic bacteria, gut flora, and glands keep you clean and fresh.     |              |
+| Endocrine Control    |    BM     |    Maj/3     | Control over hormones and emotions. +2 Moxie.                           |              |
+| Enhanced Pheromones  |     B     |    Mod/2     | +10 Persuade and Provoke with biomorphs of same species.                |              |
+| Nanotats             |     N     |    Min/1     | Mesh-controlled nanobot tattoos.                                        |              |
+| Neuromodulation      |    MN     |    Mod/2     | Control over neurotransmitters and emotions. +1 Moxie.                  |              |
+| Scent Alteration     |     B     |    Min/1     | Excrete designer smells.                                                |              |
+| Sex Switch           |     B     |    Mod/2     | Switch between male, female, intersex, or neuter in 1 week.             |              |
+| Skinflex             |     N     |    Mod/2     | Disguise face, skin, hair. +30 to impersonation/disguise Deceive Tests. |              |
+| Synthetic Cover      |     C     |    Min/1     | Faux skin covering for cyberlimb.                                       |              |
+| Synthetic Mask       |     H     |    Mod/2     | Faux skin for synthmorph. +30 disguise-based Deceive Tests.             |              |
 
 <!--sort-->
 
