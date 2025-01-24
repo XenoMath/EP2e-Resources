@@ -58,10 +58,7 @@
 | Hypermesh Link                    |    C      |   Maj/3/R             | Group mind-state, +1 Insight, can use Insight to borrow skills.                                           |               |
 | Implant Mask                      |    C      |    Min/1              | One C/H ware made concealable, −30 to detect with sensors.                                                |               |
 | Immunizers                        |     N     |    Mod/2              | Medicine: Pharmacology 60 Test for future immunity to drug, toxin, or disease.                            |               |
-| Injectors                         |     H     |    Min/1              | Attacks can inflict 1 dose on any target in swarm. Swarm morphs only.                                     |               |
-| Jaws                              |     H     |    Min/1              | Swarm attacks inflict an extra DV 1d6. Swarm morphs only.                                                 |               |
 | Laser Link (Medium)               |    C      |    Maj/3              | 500,000 km range in space.                                                                                |               |
-| Lidar                             |     H     |    Min/1              | Use reflected laser light to image and judge range and speed.                                             |    Senses     |
 | Long-Term Life Support            |     N     |    Maj/3              | Survive without air, food, or water up to one year.                                                       |               |
 | Magnetic Generator                |    C      |    Maj/3              | Thrust-Vector 8/40; use Pilot: Space; +15/+0 AV.                                                          |   Mobility    |
 | Magnetic System                   |    C      |    Min/1              | +30&nbsp;SOM Checks to cling to ferrous materials and objects.                                            |   Mobility    |
