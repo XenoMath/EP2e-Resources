@@ -3,10 +3,10 @@
 <!--sort-->
 
 | PHYSICAL WARE          | Ware Type | Comp/<wbr>GP | Description                                                                  | New Location |
-| :--------------------- | :-------: | :----------: | :--------------------------------------------------------------------------- ||
+| :--------------------- | :-------: | :----------: | :--------------------------------------------------------------------------- |:-------------|
 | Brachiating Adaptation |    BH     |    Mod/2     | Brachiate 8/32, +10 Reach.                                                   |   Mobility   |
 | Convertible Form       |     H     |    Min/1     | Transform into a pre-set configuration in 3 action turns.                    |   Shaping    |
-| Digestive Symbiotes    |     N     |    Mod/2     | Safely eat most organics; protects vs. oral biochem toxins.                  ||
+| Digestive Symbiotes    |     N     |    Mod/2     | Safely eat most organics; protects vs. oral biochem toxins.                  | |
 | Digging Claws          |    BCH    |    Min/1     | DV 1d10 + 3.                                                                 ||
 | Efficient Metabolism   |    BN     |    Mod/2     | Eat/drink once per week; survive 1–2 months w/o food/water.                  ||
 | Extra Limbs            |    BCH    |    Min/1     | Pair of extra limbs.                                                         ||
