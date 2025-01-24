@@ -111,7 +111,6 @@
 | Synthetic Mask                    |     H     |    Mod/2              | Faux skin for synthmorph. +30 disguise-based Deceive Tests.                                               | Infiltration  |
 | Sonar                             |     H     |    Min/1              | Sonar, range 20&nbsp;m air/100&nbsp;m water.                                                              |    Senses     |
 | Stealth Coating                   |     H     |   Maj/3/R             | Invisibility, −60 to Perceive, −30 to target, possible 50% miss chance.                                   |               |
-| Swarm Shape                       |     H     |    Mod/2              | Create physical shapes and manipulate Very Small objects. Swarm morphs only.                              |   Shaping     |
 | Swim Bladder                      |     H     |    Min/1              | Control buoyancy to float/ascend/descend.                                                                 |   Mobility    |
 | T-Ray Emitter                     |     H     |    Min/1              | Use enhanced vision to see through materials.                                                             |    Senses     |
 | Telescoping Limb                  |     H     |    Mod/2              | Extending limbs. +1 Reach.                                                                                |               |
