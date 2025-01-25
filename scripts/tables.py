@@ -34,9 +34,9 @@ def copy_column(_source_table_, _dest_table_, _matching_columns=(1,1), _update_c
 
 # Honestly I need to automate this, but doing it was faster in the momement
 source_path = 'src/01-gear/01-ware/lists/alphabetical.md'
-dest_path = 'src/01-gear/01-ware/lists/cyber.md'
+dest_path = 'src/01-gear/01-ware/lists/synthmorphs.md'
 matching_columns = (1,1)
-update_columns = (5,4)
+update_columns = (5,5)
 
 with open(source_path,'r') as source_file:
     source = source_file.read()
