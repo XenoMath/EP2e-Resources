@@ -341,7 +341,10 @@
   - [Assembly Examples](SUPP/03-FC/09-assembly-examples.md)
 
 # Eclipse Phase First Edition Books
+
 - [Eclipse Phase]()
+  - [Enter the Singularity]()
+    - [What is A Roleplaying Game?](EP1/EP/01/01-starting-out.md)
 - [Transhuman]()
 - [Morph Recognition Guide]()
 - [Panopticon]()
