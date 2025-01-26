@@ -64,3 +64,122 @@ To play a game of *Eclipse Phase*, you need the following:
 - Two 10-sided dice per player (or a digital equivalent)
 - Imagination
 
+### A GROUP OF PLAYERS AND A PLACE TO MEET
+
+While roleplaying games are flexible enough to allow
+any number of people, most gaming groups number
+around four to eight players. That number of people
+brings a good mix of personalities to the table and
+ensures great cooperative play.
+
+Once a group of players have determined to play
+*Eclipse Phase*, they’ll need to designate someone as
+the gamemaster (see below). Then they’ll need to
+determine a time and place to meet.
+
+Most roleplaying groups meet once a week at a regularly scheduled time and place: 7:00 PM, Thursday
+night, Rob’s house, for example. However, each group
+determines where, how they’ll play, and how often.
+One group may decide they can only get together
+once a month, while another group is so excited to
+dive into the story potential of *Eclipse Phase* that
+they want to meet twice a week (they decide to rotate
+between their houses, though, so as not to overload a
+particular player). If a group is lucky enough to have a
+favorite local gaming store that supports in-store play,
+the group might meet there. Other gaming groups
+meet in libraries, common rooms at their school,
+bookstores that have generously sized “reading
+rooms,” quiet restaurants, and so on. Whatever fit
+for your gaming group, make it work!
+
+When getting together for a game, most RPGs
+use the phrase “gaming session.” The length of
+each gaming session is completely dependent upon
+the consensus of the playing group, as well as the
+limitations of the locale where they’re playing. The
+particular story that unfolds in a given session can
+also impact a session’s length. If playing in a game
+store, the group may only have a four-hour slot and
+the gamemaster and group may have determined—
+through several sessions of play—that this is a perfect
+time frame to enjoy the story they’re participating in
+each week. Another group, however, may want an
+even shorter length of time. Yet another group may
+decide that while they’ll usually do four-hour sessions,
+once a month they’ll set aside an entire Saturday for
+a great all-day gaming session. Players will need to
+dive in and start playing and be fl xible to decide
+what will provide the ultimate enjoyment for their
+gaming group.
+
+While the camaraderie of a shared experience of
+playing face-to-face with a group of friends remains
+the strength of roleplaying games, groups need not
+confine themselves to a single mode of play. There are
+myriad options that can be used. Email, instant mes-
+sages, message boards, video chats, phone/voip calls,
+text messages, wikis, (micro-)blogs: any and all of
+these can be utilized to play the game without having
+warm bodies in seats directly across the table from
+one another.
+
+Finally, when playing groups meet for the first time,
+they should generate their characters (as opposed to
+generating characters by themselves). While a gaming
+group can decide to generate characters individually,
+often it is far easier once the players are together.
+This allows those more experienced to help those new
+to RPGs. Even more important, it enables the entire
+group to tailor the characters so there is not too
+much overlap in capabilities and style. After all, with
+the wealth of character opportunities available, you
+don’t want to show up at the table with an almost
+identical character to the player next to you.
+
+### THE GAMEMASTER
+
+Once a group has been organized, someone needs to
+step up and take the reins of the gamemaster. Some
+groups have a single gamemaster that runs all their
+gaming sessions month after month. Other groups
+rotate a gamemaster, with a single person running
+a given portion of the unfolding story for several
+games before handing the work off to another player.
+Once again, the participants should be flexible Some
+groups may have the perfect person who loves the
+work involved and is more than willing to run session
+after session, while other groups may decide that they
+all want to take turns both as the gamemaster and
+as players.
+
+The gamemaster controls the story. They keep track
+of what is supposed to happen when, describe events
+as they occur so that the players (as characters) can
+react to them, keep track of other characters in the
+game (referred to as non-player characters, or NPCs),
+and resolve attempts to take action using the game
+system. The game system comes into play when characters seek to use their skills or otherwise do something that requires a test to see whether or not they
+succeed. Specific rules are presented for situations that
+involve rolling dice to determine the outcome 
+([see the *Game Mechanics* chapter](../03/00-game-mechanics.md)).
+
+The gamemaster describes the world as the characters
+ see it, functioning as their eyes, ears, and
+other senses. Gamemastering is not easy, but the
+thrill of creating an adventure that engages the other
+players’ imaginations, testing their gaming skills and
+their characters’ skills in the game world, makes
+it worthwhile. Posthuman Studios will follow the
+publication of *Eclipse Phase* with supporting supplements
+and adventures to help this process along,
+but experienced gamemasters can always adapt
+the game universe to suit their own styles. In fact,
+since *Eclipse Phase* is published under a Creative
+Commons license, (see [license](../../../license.md)), players are encouraged
+to tailor the universe to their style of play and also
+to share that with other players. You never know
+when a specific choice you’ve made in the running of
+a campaign is exactly what another gamemaster and
+his group is looking for.
+

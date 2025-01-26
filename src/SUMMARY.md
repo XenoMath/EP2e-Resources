@@ -345,6 +345,7 @@
 - [Eclipse Phase]()
   - [Enter the Singularity]()
     - [What is A Roleplaying Game?](EP1/EP/01/01-starting-out.md)
+  - [Game Mechanics](EP1/EP/03/00-game-mechanics.md)
 - [Transhuman]()
 - [Morph Recognition Guide]()
 - [Panopticon]()
@@ -357,3 +358,7 @@
 - [The Stars Our Destination]()
 - [Argonauts]()
 - [Zone Stalkers]()
+
+------
+
+- [License](license.md)
