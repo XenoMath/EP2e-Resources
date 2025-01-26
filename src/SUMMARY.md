@@ -266,7 +266,7 @@
     - [Rules Primer](EP2e/19/06-rules-primmer.md)
     - [Character Sheet](EP2e/19/07-character-sheet.md)
   - [Buy the book!](buy-the-book.md)
-  - [License & Credits](license.md)
+  - [License & Credits](EP2e/00/license.md)
 
 # Supplements
 
