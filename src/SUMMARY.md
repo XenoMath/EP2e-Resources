@@ -37,7 +37,7 @@
 ----
 
 # EP2e
-- [Eclipse Phase Seond Edition](ep2e.md)
+- [Eclipse Phase Seond Edition](EP2e/00/ep2e.md)
   - [Infamy](EP2e/01/00-infamy.md)
   - [Starting Out](EP2e/02/00-starting-out.md)
     - [What is Eclipse Phase?](EP2e/02/01-what-is-ep.md)
