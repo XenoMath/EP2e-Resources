@@ -32,6 +32,8 @@ def copy_column(_source_table_, _dest_table_, _matching_columns=(1,1), _update_c
             source_row_index += 1
     return new_table
 
+
+
 # Honestly I need to automate this, but doing it was faster in the momement
 source_path = 'src/01-gear/01-ware/lists/alphabetical.md'
 dest_path = 'src/01-gear/01-ware/lists/synthmorphs.md'
@@ -47,5 +49,5 @@ with open(dest_path,'r') as dest_fiile:
 dest_table = parse_table(destination)
 
 
-new_table = copy_column(source_table,dest_table,matching_columns,update_columns)
-print(rebuild_table(new_table))
+#new_table = copy_column(source_table,dest_table,matching_columns,update_columns)
+#print(rebuild_table(new_table))
