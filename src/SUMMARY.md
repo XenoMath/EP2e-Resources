@@ -34,6 +34,8 @@
 
 # GM Eyes Only
 
+----
+
 # EP2e
 - [Infamy](01/00-infamy.md)
 - [Starting Out](02/00-starting-out.md)
@@ -336,3 +338,18 @@
   - [Flexbot Modules](SUPP/03-FC/07-flexbot-modules.md)
   - [Flexbot FAQ](SUPP/03-FC/08-flexbot-faq.md)
   - [Assembly Examples](SUPP/03-FC/09-assembly-examples.md)
+
+# Eclipse Phase First Edition Books
+- [Eclipse Phase]()
+- [Transhuman]()
+- [Morph Recognition Guide]()
+- [Panopticon]()
+- [Firewall]()
+- [Sunward]()
+- [Gatecrashing]()
+- [Rimward]()
+- [X-risks]()
+- [NPC Files]()
+- [The Stars Our Destination]()
+- [Argonauts]()
+- [Zone Stalkers]()
