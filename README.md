@@ -7,24 +7,24 @@ Layout, structure and initial adaptation is taken from [EclipsePhase2e-ptbr](htt
 Using [CommonMark](https://commonmark.org/) and [mbBook](https://github.com/rust-lang/mdBook).
 
 ## Progress
-- [] Add all 1e books,
-    - [] Eclipse Phase Core Started
-    - [] Transhuman
-    - [] Morph Recognition Guide
-    - [] Panopticon
-    - [] Firewall
-    - [] Sunward
-    - [] Gatecrashing
-    - [] Rimward
-    - [] X-risks
-    - [] NPC Files
-    - [] The Stars Our Destination
-    - [] Argonauts
-    - [] Zone Stalkers
-- [] Move Personal project into Homebrew folder 
-- [] Fix any broken links
-- [] Create Branch for only offical material
-- [] Create correct summary for each part
+- [ ] Add all 1e books,
+    - [ ] Eclipse Phase Core Started
+    - [ ] Transhuman
+    - [ ] Morph Recognition Guide
+    - [ ] Panopticon
+    - [ ] Firewall
+    - [ ] Sunward
+    - [ ] Gatecrashing
+    - [ ] Rimward
+    - [ ] X-risks
+    - [ ] NPC Files
+    - [ ] The Stars Our Destination
+    - [ ] Argonauts
+    - [ ] Zone Stalkers
+- [ ] Move Personal project into Homebrew folder 
+- [ ] Fix any broken links
+- [ ] Create Branch for only offical material
+- [ ] Create correct summary for each part
 ## License
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
