@@ -7,8 +7,11 @@ Layout, structure and initial adaptation is taken from [EclipsePhase2e-ptbr](htt
 Using [CommonMark](https://commonmark.org/) and [mbBook](https://github.com/rust-lang/mdBook).
 
 ## Progress
-Currently working on slimming down repo and creating the new structure
-
+- [] Add all 1e books,
+- [] Move Personal project into Homebrew folder 
+- [] Fix any broken links
+- [] Create Branch for only offical material
+- [] Create correct summary for each part
 ## License
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
