@@ -347,6 +347,7 @@
     - [Starting Out](EP1/EP/01/01-starting-out.md)
   - [A Time of Eclipse](EP1/EP/02/00-time-eclipse.md)
   - [Game Mechanics](EP1/EP/03/00-game-mechanics.md)
+    - [The Ultimate Rule](EP1/EP/03/01-the-ultimate-rule.md)
   - [Character Creation and Advancement](EP1/EP/04/00-character-creation-advancement.md)
   - [Skills](EP1/EP/05/00-skills.md)
   - [Action and Combat](EP1/EP/06/00-action-combat.md)
