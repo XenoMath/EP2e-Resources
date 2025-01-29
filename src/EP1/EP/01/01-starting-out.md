@@ -204,3 +204,380 @@ you’ll find a summary of each chapter of the book.
     Personal enhancements, weapons, robots, and everything in between.
 - [**Game Information**](../11/00-game-information.md): 
     The quintessential set of insider secrets for gamemasters.
+
+### TAKING NOTES
+
+Whether a gamemaster or player, you’ll need a way
+to track information. Players will be generating 
+characters and making changes to those characters from
+session to session. Meanwhile, the gamemaster will
+have a host of information to track: notes on how
+the story is unfolding due to player character interaction 
+that you’ll need to fold into next week’s session;
+changes to NPCs; changes to player characters that
+the players are not yet aware off (e.g., a character
+ has been mind hacked but doesn’t yet know it); and so on.
+
+Additionally, some groups enjoy a synopsis of each
+session that can be compiled and read at a later time
+in order to enjoy and share their exploits, just as you
+might fileshare clips from your favorite video game
+to show off your skill in taking the bad guy down
+(traditionally this has been called “bluebooking”).
+This can be particularly useful if a player was unable
+to attend a given session, providing a quick re-cap
+that they can read before attending the next gaming
+session and thus avoiding a bog-down up-front as
+that player tries to catch up on current events in the
+game. The session scribe can be a shared responsibility
+or assigned, all based on what a given playing group
+finds works best for them. Likewise, some gaming
+groups audio-record their entire game session, both
+for later reference and for “actual play” podcasts.
+
+The old standard of a pencil and paper still works
+wonders. Digital technologies, however, provide many
+new options for players. From a text file on a laptop
+to a shared wiki, the ability to track large amounts
+of information in a quick and useful fashion—while
+simultaneously making appropriate information
+available to each player from session to 
+session—significantly decreases how much time everyone needs
+to spend tracking information. That time can now
+be redirected into the enjoyment of participating in
+a great story.
+
+### DICE
+
+As described in the Game Mechanics chapter 
+([see Dice](../03/01-the-ultimate-rule.md#dice)), two ten-sided dice are required to play
+Eclipse Phase. While most players enjoy the feel of
+tossing dice onto a table, there are many other mecha-
+nisms for rolling two ten-sided dice to achieve a 00 to
+99 result. Players who make heavy use of any online
+technologies for game play—such as using online chat-
+ting or video blogging—should find it easy to track
+down and implement a quick dice-rolling program.
+
+### IMAGINATION
+
+All too often, it’s easy for someone looking at an RPG
+to be intimidated. So many concepts to grasp, so many
+ideas that seem overwhelming. Just as described under
+*What is a Roleplaying Game?*, however, how often
+have you read a book or watched that movie and
+decided that you would have done it better? That’s
+your imagination at work. Just dive in and you’ll be
+amazed at how quickly you can immerse yourself in
+the *Eclipse Phase* universe. Soon you’ll be spinning
+stories with the best of them.
+
+Also, don’t forget to tap your resources. Your
+gaming group is your best resource. What’s going on,
+ideas for how to handle a situation, or how to take
+on a bad guy: these are just some of the things that
+can and should be discussed by the gaming group
+in between sessions, and each is an opportunity to
+strengthen your imagination.
+
+Another resource is simply watching TV or reading
+a good book. Pay attention to how the story is put
+together, how the characters are built, and how the
+plot unfolds. Push your imagination and soon you’ll
+be figuring out subplots and who the bad guy is long
+before it’s revealed. Knowing how a story is put
+together enables you to put together your own stories
+during each gaming session.
+
+Finally, [eclipsephase.com](https://eclipsephase.com/) is the official site for
+*Eclipse Phase*. If you have questions about the game
+or want to see how another group of players handles
+a given situation, post on the forums. The online community
+can be just as helpful and enjoyable as a local
+gaming group.
+
+## WHAT DO PLAYERS DO?
+
+The players can take on a variety of roles in *Eclipse Phase*.
+Due to advances in digital mind-emulation
+technology, uploading, and downloading into new
+morphs (physical bodies, both biological and synthetic),
+it is possible to literally be a new person from
+session to session. With bodies taking on the role of
+gear, players can customize their forms for the task
+at hand.
+
+### THE DEFAULT CAMPAIGN
+
+In the default story (also known as the “campaign
+setting”), every player character is a “sentinel,” an
+agent-on-call (or potential recruit) for a shadowy
+network known as “Firewall.” Firewall is dedicated
+to counteracting “existential risks”—threats to the
+existence of transhumanity. These risks include
+biowar plagues, nanotech swarm outbreaks, nuclear
+proliferation, terrorists with WMDs, net-breaking
+computer attacks, rogue AIs, alien encounters, and so
+on. Firewall isn’t content to simply counteract these
+threats as they arise, of course, so characters may also
+be sent on information-gathering missions or to put
+in place pre-emptive or failsafe measures. Characters
+may be tasked to investigate seemingly innocuous
+people and places (who turn out not to be), make
+deals with shady criminal networks (who turn out not
+to be trustworthy), or travel through a Pandora gate
+wormhole to analyze the relics of some alien ruin (and
+see if the threat that killed them is still real). Sentinels
+are recruited from every faction of transhumanity;
+those who aren’t ideologically loyal to the cause are
+hired as mercenaries. These campaigns tend to mix a
+bit of mystery and investigation with fi rce bouts of
+action and combat, also stirring in a nice dose of awe
+and horror.
+
+### ALTERNATE CAMPAIGNS
+
+When they’re not saving the solar system, sentinels are
+free to pursue their own endeavors. The gamemaster
+and players can use this rulebook to generate any type
+of story they wish to tell. The following examples
+provide a brief look at the most obvious opportunities
+for adventure in *Eclipse Phase*.
+
+After each campaign variant below, a list of
+“archetypes” for *Eclipse Phase* are provided in
+parenthesis. Archetypes are the names applied to
+the most common character types featured in those
+scenarios. For example, in a traditional detective
+story, the archetypes would be the Detective, the
+Damsel In Distress, the Hard-bitten Cop, and so
+on. In a cowboy movie, the archetypes would be the
+Gunfighte , the Bartender, the Marshal, the Indian
+Brave, etc. Players will note that some archetypes fi
+into multiple story settings. 
+The [character creation system](../04/00-character-creation-advancement.md) 
+allows players to create any of the
+suggested archetypes. Just as roleplaying games are
+designed for players to build their own stories, these
+archetypes are just suggestions and players can mix
+and match as they please.
+
+**Salvage and Rescue/Retrieval Ops:** The Fall left
+the Earth and numerous habitats in ruins—but these
+devastated cities and stations contain untold riches
+for those who are brave and foolhardy enough.
+Potential hauls include: weapon systems; physical
+resources; lost databanks; left-behind uploads of
+friends, family, or important people; new technologies
+developed and lost in the brief singularity
+takeoff; valued heirlooms of immortal oligarchs;
+and much more. Outside of these once-inhabited
+realms, space itself is a big place and lots of people
+and things get lost out there. Some need to be saved
+and some are beyond saving. This option lets players
+explore the unknown or seek out specific targets on
+contract. (Archeologist/Scavenger/Pirate/Free Trader/
+Smuggler/Black Marketeer)
+
+**Exploration:** There are plenty of opportunities
+to be had as an explorer, colonist, or long-range
+scout—perhaps even as one of the few lucky or suicidal
+individuals who explore through an untested
+Pandora gate. Even the Kuiper Belt, on the fringe
+of our solar system, is still sparsely explored; there
+may be riches and mysteries still to be found. Many
+dangers also lurk in odd corners of the system, from
+isolationist posthuman factions to secretive criminal
+cartels, as well as pirates, aliens, and others wishing
+to remain out of sight. (Explorer/Archeologist/
+Scavenger/Singularity Seeker/Techie/Medic)
+
+**Trade:** While the majority of inner system trade is
+controlled by sleek hypercorporations, many of the
+smaller or more independent stations rely on small
+traders. In the post-scarcity outer system, trade takes
+on a different form, with information, favors, and
+creativity serving as currency among those who no
+longer want for anything due to the availability of
+cornucopia machines. (Free Trader/Smuggler/Black
+Marketeer/Pirate)
+
+**Crime:** The patchwork of city-state habitats and
+widely varying laws throughout the system creates
+ample opportunity for those who would make a
+living from this situation. Black market commodi-
+ties and activities include infomorph-slave trading,
+pleasure pod sex industries, data brokerage and
+theft, extracting/smuggling advanced technologies
+and scientists, political/economic espionage, assas-
+sination, drug and XP dealing, soul-trading, and
+much more. Whether as an independent or part of
+an organized criminal element, there are always
+opportunities for those with a thirst for adven-
+ture or profit and questionable morals. (Criminal/
+Smuggler/Pirate/Fixer/Black Marketeer/Genehacker/
+Hacker/Covert Ops)
+
+**Mercenaries:** The constant maneuvering of
+ideologically driven factions, the squabbling over
+contested resources, and the rush to colonize new
+exoplanets beyond the Pandora gates all spark new
+conflicts on a regular basis. Some of these simmer
+and seethe as low-intensity conflicts for years, occa-
+sionally flaring into raids and clashes. Others break
+out into all-out warfare. Women and men willing
+to bear arms for credits are always in demand for
+good wages. Players can engage in commando and
+military campaigns in habitats, between the stars, or
+in hostile planetary environments. (Merc/Security
+Specialist/Fixer/Bounty Hunter/Ex-Cop/Medic)
+
+**Socio-Political Intrigue:** The corporations and
+political factions that span the solar system do not
+always play nice with each other, but neither is it
+wise for them to openly confront each other except
+under extreme circumstances. Many battles are
+fought with diplomacy and political maneuvering,
+using words and ideas more potent than weapons.
+Even within factions, social cliques can compete
+ruthlessly and heated class conflicts can come to
+a boil, tearing a society apart from within. In this
+campaign, the players can start as pawns of some
+entity who rise through the ranks as they become
+more enmeshed in the intrigues of their sponsor, play
+a group of ambassadors and spies stationed in the
+opposition’s capital, or run as a group of activists
+and radicals fighting for social change. 
+(Politico/Socialite/Covert Ops/Hacker/Security Specialist/Journalist/Memeticist)
+
+## WHERE DOES IT TAKE PLACE?
+
+While *Eclipse Phase* is set in the not-too-distant future,
+the changes that have taken place due to the advancements
+of technology have transformed the Earth and
+its inhabitants almost beyond recognition. As players
+dive into the universe, they’ll generally encounter one
+of the following settings.
+
+### TRANSHUMANITY’S HABITATS
+
+The Earth has been left an ecologically devastated
+ruin, but transhumanity has taken to the stars. When
+Earth was abandoned, so too were the last of the great
+nation-states; transhumanity now lacks a single unifying
+governing body and is instead subject to the laws
+and regulations of whomever controls a given habitat.
+
+The majority of transhumanity is confined to orbital
+habitats or satellite stations scattered throughout the
+solar system. Some of these were constructed from
+scratch in the orbit or Lagrange points of planetary
+bodies, others have been hewn out of solid satellites
+and large asteroids. These stations have myriad purposes
+from trade to warfare, espionage to research.
+
+Mars continues to be one of transhumanity’s largest
+settlements, though it too suffered heavily during the
+Fall. Numerous cities and settlements remain, and
+more are established each year, though the planet is
+only partially terraformed. Venus, Luna, and Titan
+are also home to significant populations. Additionally,
+there are a small number of colonies that have been
+established on exoplanets (on the other side of the
+Pandora gates) with environments that are not too
+hostile towards humanity.
+
+Some transhumans prefer to live on large colony
+ships or linked swarms of smaller spacecraft, moving
+nomadically. Some of these rovers intentionally exile
+themselves to the far limits of the solar system, far
+from everyone else, while others actively trade from
+habitat to habitat, station to station, serving as mobile
+black markets.
+
+### THE GREAT UNKNOWN
+
+The areas of the galaxy that have felt the touch of
+humanity are few and far between. Lying betwixt
+these occasional outposts of questionable civilization
+are mysteries both dangerous and wonderful. Ever
+since the discovery of the Pandora gates, there has
+been no shortage of adventurers brave or foolhardy
+enough to strike out on their own into the unknown
+regions of space in hopes of finding more alien artifacts,
+or even establishing contact with one of the
+other sentient races in the universe
+
+### THE MESH
+
+While not a “setting” in the traditional sense, as the
+sections describe above, the computer networks
+known as the “mesh” are all-pervasive. This ubiquitous
+computing environment is made possible
+thanks to advanced computer and nanofabrication
+technologies that allow unlimited data storage and
+near-instantaneous transmission capacities. With
+micro-scale, cheap-to-produce wireless transceivers so
+abundant, literally everything is wirelessly connected
+and online. Via implants or small personal computers,
+characters have access to archives of information
+that dwarf the entire 21 st-century internet and sensor
+systems that pervade every public place. People’s
+entire lives are recorded and lifelogged, shared with
+others on one of numerous social networks that link
+everyone together in a web of contacts, favors, and
+reputation systems.
+
+## EGO vs . MORPH
+
+The distinction between ego (your mind and personality,
+including memories, knowledge, and skills) and
+morph (your physical body and its capabilities) is one
+of the defining characteristics of *Eclipse Phase*. A good
+understanding of the concept right up front will allow
+players a glimpse at all the story possibilities out of
+the gate.
+
+Your body is disposable. If it gets old, sick, or too
+heavily damaged, you can digitize your consciousness
+and download into a new one. The process isn’t cheap
+or easy, but it does guarantee you effective immortality—as
+long as you remember to back yourself up and
+don’t go insane. The term *morph* is used to describe
+any type of form your mind inhabits, whether a 
+vat-grown clone sleeve, a synthetic robotic shell, a 
+part-bio/part-synthetic “pod,” or even the purely electronic
+software state of an infomorph.
+
+A character’s morph may die, but the character’s
+ego may live on, assuming appropriate backup measures
+ have been taken. Morphs are expendable, but
+your character’s ego represents the ongoing, continuous
+life path of your character’s mind and personality.
+This continuity may be interrupted by an unexpected
+death (depending on how recently the backup was
+made), but it represents the totality of the character’s
+mental state and experiences.
+
+Some aspects of your character—particularly skills,
+along with some stats and traits—belong to your
+character’s ego and so stay with them throughout
+the character’s development. Some stats and traits,
+however, are determined by morph, as noted, and
+so will change if your character leaves one body and
+takes on another. Morphs may also affect other skills
+and stats, as detailed in the morph description.
+
+## WHERE TO GO FROM HERE?
+
+Now that you know what this game is about, we
+suggest that you next read the 
+[*A Time Of Eclipse chapter*](../02/00-time-eclipse.md),
+to get a feel for the game’s default
+setting (which you are, of course, free to change to
+suit your whims). Then read 
+the [*Game Mechanics chapter*](../03/00-game-mechanics.md),
+to get a grasp of the rules. After
+that, you can move on to 
+[*Character Creation and Advancement*](../04/00-character-creation-advancement.md)
+and create your first character!
