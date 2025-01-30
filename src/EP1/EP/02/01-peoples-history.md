@@ -633,3 +633,9 @@ But if we don’t, there’s no future. And I, for one,
 have not lived this fucking long to give up now. You,
 me, we’re effectively immortal. The entire galaxy is
 waiting out there for us. We’d be stupid not to go see it.
+
+<blockquote>
+
+End Transcript
+
+</blockquote>
