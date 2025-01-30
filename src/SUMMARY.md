@@ -345,6 +345,7 @@
 - [Eclipse Phase]()
   - [Enter the Singularity](EP1/EP/01/00-enter-singularity.md)
     - [Starting Out](EP1/EP/01/01-starting-out.md)
+    - [Terminology](EP1/EP/01/02-terminology.md)
   - [A Time of Eclipse](EP1/EP/02/00-time-eclipse.md)
   - [Game Mechanics](EP1/EP/03/00-game-mechanics.md)
     - [The Ultimate Rule](EP1/EP/03/01-the-ultimate-rule.md)
