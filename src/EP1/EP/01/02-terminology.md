@@ -254,7 +254,7 @@ activity.
 - **Rusters:** Biomorphs optimized for life on Mars.
 - **Scorchers:** Hostile programs that can damage or affect
     cyberbrains.
-- **Scum:** The nomadic faction of space punks[...]
+- **Scum:** The nomadic faction of space punks\[...\]
     that travel from station to station in heavily modified
     barges or swarms of ships. Notorious for being a
     roving black market.
@@ -330,3 +330,275 @@ activity.
     with some indentures.
 
 </div>
+
+<blockquote>
+
+## WELCOME TO FIREWALL
+\[Incoming Message Recieved. Source:Unknown\]<br>
+\[Quantum Analysis: No Interception Detected\]<br>
+\[Decryption Complete\]
+
+**Greetings**
+
+Your references and background
+have been triple-checked and confirmed, and you are now vetted as
+a sentinel operative. Welcome to
+Firewall, friend.
+
+For those new to our private
+network, Firewall is an organization dedicated to protecting
+transhumanity from threats—both internal and external—to our
+continued existence as a species. The Fall may have reminded us that
+our ability to survive and prosper
+is not guaranteed, but our kind
+has a remarkably short attention
+span. Despite our achievement of
+functional near-immortality, we
+continue to face numerous dangers
+that may contribute to our extinction. Some of these risks come from
+our own factionalism and divisiveness, combined with universally
+available technology that could
+cause widespread destruction and
+untold deaths in the wrong hands.
+Some stem from our short-sightedness, failing to see the dangers
+in which we place ourselves and
+our environments through careless actions. Some arise from our
+own creations turned against us,
+as the TITANs proved. Other risks
+may come from alien intelligences
+whose motivations we cannot yet
+fathom, and of whom we may not
+even be aware. Still others may
+threaten us by sheer chance and
+the mindless but deadly cause-and-effect of a universe in which we are
+but an insignificant speck.
+
+Firewall exists to identify, analyze,
+and counter these risks. We are all
+volunteers. We are all placing our
+own lives at risk in order to ensure
+the survival of transhumanity.
+
+Firewall has existed, under other
+names and guises, since before
+the Fall. Numerous agencies with
+a similar agenda banded together
+in the wake of those cataclysmic
+events to assess our situation and
+prepare for the worst. Now we
+operate under a single umbrella.
+
+We are a private network for two
+reasons. First, our existence and
+operational abilities are protected
+by our secrecy. The less our opposition knows about us, the more
+effectively we can counter them.
+Similarly, certain authorities might
+be hostile to an organization such
+as ours operating in their claimed
+territory. Though some may be
+aware of our existence, we bypass
+numerous legal and jurisdictional
+hurdles that might otherwise
+hamper our actions and goals.
+Second, our mission sometimes
+brings to light information that is
+not only dangerous in the wrong
+hands, but might even trigger
+widespread panic if made public. In
+some cases, the very existence of
+such knowledge could be problematic. 
+By retaining secrecy and operating on a need-to-know basis, we
+automatically counter certain risks.
+
+Firewall is a decentralized, peer-to-peer network. We have minimal
+hierarchy and we answer to no one
+but ourselves. Our node structure
+enables us to share resources and
+talents without sacrificing the
+privacy and security of our operatives.
+
+You have been recruited because
+of your knowledge, assets or skills,
+and/or because you have come into
+contact with certain restricted data.
+You have proven your willingness
+to support our goals. Our lives and
+existence—and the future of transhumanity—may rest in your hands.
+
+So here’s to the future—may we all live to see it.
+
+\[End Message\]<br>
+\[This Message Has Self-Erased\]
+
+</blockquote>
+
+
+<blockquote>
+
+## WHAT YOU REALLY NEED TO KNOW
+\[Incoming Message Recieved. Source:Unknown\]<br>
+\[Quantum Analysis: No Interception Detected\]<br>
+\[Decryption Complete\]
+
+**Sit down, and grab yourself a fucking drink.**
+
+Forget all of that AI-generated
+intro crap you just read. Here’s the
+real deal.
+
+You’re probably dying to know
+what you’ve been dragged into.
+Maybe you’ve been told the party
+line already: that we’re all that
+stands between transhumanity
+and extinction. Or maybe someone
+whispered to you that we’re a rogue
+operation that meddles in heavy
+shit that we have no authority to
+get involved in and that we sometimes get people killed as a result.
+You must be curious. Maybe you’ve
+got a vigilante streak and you’re
+looking to spill blood for a good
+cause. Would it matter to you if the
+cause was a deluded one? Maybe
+you’re a conspiracy wingnut and
+you’re dying to know what secrets
+Firewall is clutching to its collective
+chest. What if those secrets shattered the carefully constructed lies
+that we all tell to ourselves to keep
+our sanity intact?
+
+Everything you’ve heard, good or
+bad, about Firewall very well may
+be true. We’re not angels. We lost
+the sheen on our ideals when the
+TITANs forcibly uploaded their first
+human mind. Right now, you should
+be asking yourself what the fuck you
+just signed up for. I did.
+
+Truth is, Firewall is lots of things.
+Most of it is good, but a lot of it
+so fucking horrible you’ll be think-
+ing about planting a bullet in your
+stack and resorting to an earlier
+backup just so you can forget it all.
+If you have any romantic visions
+about being a hero, drop them now.
+You won’t feel like a hero when
+you airlock some kid because he’s
+carrying an infectious nanovirus.
+You won’t feel brave when you run
+across some alien thing and crap
+your pants. And you won’t even
+feel human anymore when you
+make a call that will cost dozens,
+hundreds, or even thousands of
+people their lives, even if you are
+saving millions more.
+
+So why would anyone be crazy
+enough to be part of this thing?
+Because it needs to be done. Our
+survival depends on it. To some
+people, it’s altruism, defending
+transhumanity. But really, it’s about
+saving your own fucking neck
+too. Sure, you could abstain from
+taking responsibility and let some
+self-described authority take care
+of it. But if the anarchists have
+anything right, it’s that people in
+power can’t be trusted. As often as
+not, they’re part of the problem. So
+Firewall does things the collective
+way. We’re underground, but we’re
+an open source operation. We share
+information and resources towards
+a common goal. We organize in
+networked ad-hoc cells, smart-mob
+style. We don’t let anyone accrue too
+much power or control. Everyone
+involved in an op has an equal
+say. We police ourselves. We come
+from all sorts of backgrounds and
+factions, but we face a common
+enemy—and we fight to win. There
+is no alternative.
+
+Maybe you’ve heard of the Fermi
+Paradox? That question asked why,
+with a galaxy so huge, there were so
+few signs of other life? Even though
+we’ve met the Factors and seen
+evidence of other aliens, our galactic
+neighborhood should be crawling
+with intelligence—but it’s not.
+
+I’ll tell you why. The universe
+is not fucking fair. If transhuman-
+ity were wiped out, the galaxy
+wouldn’t even notice. Just look at
+the Earth. That planet still exists,
+still supports life, even though
+we’re far gone. Reality is an uncaring asshole. Forget all that utopian
+crap about living forever. We’ll be
+lucky to survive another year. We’ve
+developed technologies that put
+weapons of mass destruction in the
+hands of everyone, but we’re still an
+adolescent species that has trouble
+overcoming petty tribal bullshit. If
+you’re really looking forward to
+exploring the universe as a postmortal, you’re going to have to
+work hard at it. Survival isn’t a right,
+it’s a privilege.
+
+When you sign up with Firewall,
+you put yourself on call. Anytime
+some shit goes down in your neck
+of the woods or that you might be
+particularly helpful in dealing with,
+you’ll get a call. You’ll be expected
+to drop whatever you’re doing and
+put everything else on hold as if
+your life depended on it—it probably does. When you’re in the field,
+on an op—”going to the doctor,” as
+we call it—your cell is empowered
+to act as it sees fit … just keep in
+mind that you’ll be answering to
+the rest of us later. You’ll also have
+the Firewall network to back you
+up—though resources are often
+limited, so don’t expect us to always
+save your ass. Other sentinels can be
+called on to pull strings, but every
+time we do so, it threatens to unveil
+an agent, create a trail that we need
+to clean up, and otherwise complicates matters. Self-reliance is key.
+
+One last thing: don’t ever, ever
+forget that we have enemies. I’m
+not just talking about the nutjob
+who wants to nuke a habitat to
+make a political statement or the
+neo-luddites who think biowar
+plagues will teach us all a lesson,
+I’m talking about the agencies that
+know Firewall exists and consider it
+a threat. If they tag you as a sentinel,
+your days are numbered. Maybe
+your backups too. So watch yer
+friggin’ back.
+
+So that’s the real deal, as honest
+as I can give it. Welcome to our secret
+clubhouse, comrade. Remember: death
+is just another day on the job.
+
+
+\[End Message\]<br>
+\[This Message Has Self-Erased\]
+
+</blockquote>
