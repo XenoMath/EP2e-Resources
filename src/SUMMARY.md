@@ -347,6 +347,7 @@
     - [Starting Out](EP1/EP/01/01-starting-out.md)
     - [Terminology](EP1/EP/01/02-terminology.md)
   - [A Time of Eclipse](EP1/EP/02/00-time-eclipse.md)
+    - [A People’s History of an Unfortunate Universe](EP1/EP/02/01-peoples-history.md)
   - [Game Mechanics](EP1/EP/03/00-game-mechanics.md)
     - [The Ultimate Rule](EP1/EP/03/01-the-ultimate-rule.md)
   - [Character Creation and Advancement](EP1/EP/04/00-character-creation-advancement.md)
