@@ -101,7 +101,6 @@
 | Reflex Boosters                   |     H     |    Maj/3              | Spine and nervous system rewired. +3&nbsp;INIT, +10&nbsp;REF Check.                                       |     EP2       |
 | Refractive Coating                |     N     |    Maj/3              | Protection from heat/radiation; AV +10/+0.                                                                |     EP2       |
 | Remote Backup Link                |     H     |    Maj/3              | Quantum farcaster for remote backup every 48 hrs.                                                         |     EP2       |
-| Respirocytes                      |     N     |    Mod/2              | Artificial blood cells, provide 4 hours of air, +5&nbsp;DUR, +1&nbsp;WT, +8&nbsp;DR.                      |     EP2       |
 | Retracting Limbs                  |     H     |    Min/1              | Limb retracts, can hold 1 small item.                                                                     |     EP2       |
 | Shape Adjusting                   |     H     |    Maj/3              | Smart material composition, can create 2 Min or 1 Mod item/ware, more.                                    |    EP2-CO     |
 | Skillware                         |     HM    |    Maj/3              | Can use 120 points of skillsofts.                                                                         |    EP2-CO     |
@@ -119,6 +118,5 @@
 | Telescoping Limb                  |     H     |    Mod/2              | Extending limbs. +1 Reach.                                                                                |     EP2       |
 | Thermogenic Protection            |     H     |    Mod/2              | Handle high temps up to 1,000&nbsp;°C.                                                                    |     EP2       |
 | Utilimod                          |     H     |    Mod/2              | Implanted utilitool.                                                                                      |     EP2       |
-| Vacuum Sealing                    |     B     |    Min/1              | Can survive exposure to vacuum.                                                                           |    EP2-CO     |
 | Weapon Mount                      |     H     |    Min/R/1            | Hardpoint holds one static/swiveling/articulated weapon. Concealable.                                     |     EP2       |
 | Wings                             |     H     |    Mod/2              | Enable flight if small or in low gravities. Movement Rate Winged 8/32 (medium) or 8/40 (small).           |     EP2       |
