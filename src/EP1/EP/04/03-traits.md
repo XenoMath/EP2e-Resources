@@ -1,0 +1,5 @@
+# TRAITS
+
+## POSITIVE TRAITS
+
+### PSI
