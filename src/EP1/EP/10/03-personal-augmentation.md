@@ -12,6 +12,8 @@
 
 ### PHYSICAL AUGMENTATION
 
+#### Grip Pads:
+
 #### Temperature Tolerance:
 
 #### Vacuum Sealing:
@@ -22,6 +24,7 @@
 
 #### Ghostrider Module:
 
+#### Mnemonic Augmentation:
 
 
 ## ROBOTIC ENHANCEMENTS
